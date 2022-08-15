@@ -1,0 +1,1964 @@
+2022-08-10 19:47:20,558 [main] INFO logger_File - Scenario Login on Website started
+2022-08-10 19:47:24,152 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-10 19:47:30,605 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-10 19:47:34,044 [main] INFO logger_File - Login was clicked successfuly
+2022-08-10 19:47:37,090 [main] INFO logger_File - My Account was verified successfuly
+2022-08-10 20:15:54,132 [main] INFO logger_File - Scenario login to Retail website with multiple credentials started
+2022-08-10 20:15:58,487 [main] INFO logger_File - Scenario login to Retail website with multiple credentials UNDEFINED
+2022-08-10 20:15:58,496 [main] INFO logger_File - Scenario login to Retail website with multiple credentials started
+2022-08-10 20:16:02,420 [main] INFO logger_File - Scenario login to Retail website with multiple credentials UNDEFINED
+2022-08-10 20:16:02,425 [main] INFO logger_File - Scenario login to Retail website with multiple credentials started
+2022-08-10 20:16:06,045 [main] INFO logger_File - Scenario login to Retail website with multiple credentials UNDEFINED
+2022-08-10 20:16:06,056 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-10 20:16:09,721 [main] INFO logger_File - Scenario Register to Retail Website UNDEFINED
+2022-08-10 20:17:35,544 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-10 20:17:39,302 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-10 20:17:39,441 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-10 20:17:40,164 [main] INFO logger_File - user clicked on show all desktops
+2022-08-10 20:17:40,226 [main] INFO logger_File - is present
+2022-08-10 20:17:40,257 [main] INFO logger_File - Desktopsis present
+2022-08-10 20:17:40,289 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-10 20:17:40,320 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-10 20:17:40,350 [main] INFO logger_File - HP LP3065is present
+2022-08-10 20:17:40,382 [main] INFO logger_File - HTC Touch HDis present
+2022-08-10 20:17:40,411 [main] INFO logger_File - iPhoneis present
+2022-08-10 20:17:40,442 [main] INFO logger_File - iPod Classicis present
+2022-08-10 20:17:40,474 [main] INFO logger_File - MacBookis present
+2022-08-10 20:17:40,505 [main] INFO logger_File - MacBook Airis present
+2022-08-10 20:17:40,537 [main] INFO logger_File - Palm Treo Prois present
+2022-08-10 20:17:40,568 [main] INFO logger_File - Product 8is present
+2022-08-10 20:17:40,600 [main] INFO logger_File - Samsung SyncMaster 941BWis present
+2022-08-10 20:17:40,632 [main] INFO logger_File - Sony VAIOis present
+2022-08-10 20:17:41,296 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-10 20:18:46,111 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-10 20:18:50,108 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-10 20:18:50,248 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-10 20:18:50,924 [main] INFO logger_File - user clicked on show all desktops
+2022-08-10 20:18:50,987 [main] INFO logger_File - is present
+2022-08-10 20:18:51,018 [main] INFO logger_File - Desktopsis present
+2022-08-10 20:18:51,047 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-10 20:18:51,078 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-10 20:18:51,109 [main] INFO logger_File - HP LP3065is present
+2022-08-10 20:18:51,140 [main] INFO logger_File - HTC Touch HDis present
+2022-08-10 20:18:51,172 [main] INFO logger_File - iPhoneis present
+2022-08-10 20:18:51,203 [main] INFO logger_File - iPod Classicis present
+2022-08-10 20:18:51,234 [main] INFO logger_File - MacBookis present
+2022-08-10 20:18:51,266 [main] INFO logger_File - MacBook Airis present
+2022-08-10 20:18:51,298 [main] INFO logger_File - Palm Treo Prois present
+2022-08-10 20:18:51,328 [main] INFO logger_File - Product 8is present
+2022-08-10 20:18:51,361 [main] INFO logger_File - Samsung SyncMaster 941BWis present
+2022-08-10 20:18:51,391 [main] INFO logger_File - Sony VAIOis present
+2022-08-10 20:18:52,043 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-10 21:02:40,011 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-10 21:02:44,080 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-10 21:02:44,237 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-10 21:02:44,996 [main] INFO logger_File - user clicked on show all desktops
+2022-08-10 21:02:45,055 [main] INFO logger_File - is present
+2022-08-10 21:02:45,086 [main] INFO logger_File - Desktopsis present
+2022-08-10 21:02:45,118 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-10 21:02:45,150 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-10 21:02:45,181 [main] INFO logger_File - HP LP3065is present
+2022-08-10 21:02:45,212 [main] INFO logger_File - HTC Touch HDis present
+2022-08-10 21:02:45,243 [main] INFO logger_File - iPhoneis present
+2022-08-10 21:02:45,275 [main] INFO logger_File - iPod Classicis present
+2022-08-10 21:02:45,306 [main] INFO logger_File - MacBookis present
+2022-08-10 21:02:45,337 [main] INFO logger_File - MacBook Airis present
+2022-08-10 21:02:45,369 [main] INFO logger_File - Palm Treo Prois present
+2022-08-10 21:02:45,401 [main] INFO logger_File - Product 8is present
+2022-08-10 21:02:45,431 [main] INFO logger_File - Samsung SyncMaster 941BWis present
+2022-08-10 21:02:45,462 [main] INFO logger_File - Sony VAIOis present
+2022-08-10 21:02:46,118 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-10 21:07:50,366 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-10 21:07:54,067 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-10 21:07:54,205 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-10 21:07:55,638 [main] INFO logger_File - user clicked on show all desktops
+2022-08-10 21:07:55,699 [main] INFO logger_File - is present
+2022-08-10 21:07:55,730 [main] INFO logger_File - Desktopsis present
+2022-08-10 21:07:55,762 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-10 21:07:55,792 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-10 21:07:55,823 [main] INFO logger_File - HP LP3065is present
+2022-08-10 21:07:55,855 [main] INFO logger_File - HTC Touch HDis present
+2022-08-10 21:07:55,885 [main] INFO logger_File - iPhoneis present
+2022-08-10 21:07:55,918 [main] INFO logger_File - iPod Classicis present
+2022-08-10 21:07:55,949 [main] INFO logger_File - MacBookis present
+2022-08-10 21:07:55,982 [main] INFO logger_File - MacBook Airis present
+2022-08-10 21:07:56,028 [main] INFO logger_File - Palm Treo Prois present
+2022-08-10 21:07:56,059 [main] INFO logger_File - Product 8is present
+2022-08-10 21:07:56,090 [main] INFO logger_File - Samsung SyncMaster 941BWis present
+2022-08-10 21:07:56,122 [main] INFO logger_File - Sony VAIOis present
+2022-08-10 21:07:56,792 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-10 21:13:24,519 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-10 21:13:28,395 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-10 21:13:28,534 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-10 21:13:29,266 [main] INFO logger_File - user clicked on show all desktops
+2022-08-10 21:13:29,320 [main] INFO logger_File - is present
+2022-08-10 21:13:29,351 [main] INFO logger_File - Desktopsis present
+2022-08-10 21:13:29,382 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-10 21:13:29,414 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-10 21:13:29,444 [main] INFO logger_File - HP LP3065is present
+2022-08-10 21:13:29,477 [main] INFO logger_File - HTC Touch HDis present
+2022-08-10 21:13:29,506 [main] INFO logger_File - iPhoneis present
+2022-08-10 21:13:29,538 [main] INFO logger_File - iPod Classicis present
+2022-08-10 21:13:29,568 [main] INFO logger_File - MacBookis present
+2022-08-10 21:13:29,599 [main] INFO logger_File - MacBook Airis present
+2022-08-10 21:13:29,629 [main] INFO logger_File - Palm Treo Prois present
+2022-08-10 21:13:29,662 [main] INFO logger_File - Product 8is present
+2022-08-10 21:13:29,694 [main] INFO logger_File - Samsung SyncMaster 941BWis present
+2022-08-10 21:13:29,723 [main] INFO logger_File - Sony VAIOis present
+2022-08-10 21:13:30,367 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-10 21:17:46,982 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-10 21:17:51,009 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-10 21:17:51,148 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-10 21:17:51,892 [main] INFO logger_File - user clicked on show all desktops
+2022-08-10 21:17:51,954 [main] INFO logger_File - is present
+2022-08-10 21:17:51,984 [main] INFO logger_File - Desktopsis present
+2022-08-10 21:17:52,014 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-10 21:17:52,047 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-10 21:17:52,079 [main] INFO logger_File - HP LP3065is present
+2022-08-10 21:17:52,111 [main] INFO logger_File - HTC Touch HDis present
+2022-08-10 21:17:52,141 [main] INFO logger_File - iPhoneis present
+2022-08-10 21:17:52,174 [main] INFO logger_File - iPod Classicis present
+2022-08-10 21:17:52,207 [main] INFO logger_File - MacBookis present
+2022-08-10 21:17:52,238 [main] INFO logger_File - MacBook Airis present
+2022-08-10 21:17:52,268 [main] INFO logger_File - Palm Treo Prois present
+2022-08-10 21:17:52,299 [main] INFO logger_File - Product 8is present
+2022-08-10 21:17:52,331 [main] INFO logger_File - Samsung SyncMaster 941BWis present
+2022-08-10 21:17:52,362 [main] INFO logger_File - Sony VAIOis present
+2022-08-10 21:17:53,020 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-10 21:24:59,391 [main] INFO logger_File - Scenario login to Retail website with multiple credentials started
+2022-08-10 21:25:03,221 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-10 21:25:27,213 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-10 21:25:37,030 [main] INFO logger_File - Scenario login to Retail website with multiple credentials started
+2022-08-10 21:25:40,639 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-10 21:25:47,264 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-10 21:25:50,755 [main] INFO logger_File - Login was clicked successfuly
+2022-08-10 21:25:53,795 [main] INFO logger_File - My Account was verified successfuly
+2022-08-10 21:25:57,467 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-10 21:26:00,517 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-10 21:26:04,294 [main] INFO logger_File - Scenario Register to Retail Website UNDEFINED
+2022-08-10 22:44:06,986 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-10 22:44:10,841 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-10 22:44:14,568 [main] INFO logger_File - Scenario Register to Retail Website PENDING
+2022-08-10 22:52:39,047 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-10 22:52:44,013 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-10 22:52:47,743 [main] INFO logger_File - Scenario Register to Retail Website PENDING
+2022-08-10 22:53:09,379 [main] INFO logger_File - Scenario login to Retail Website started
+2022-08-10 22:53:14,112 [main] INFO logger_File - Scenario login to Retail Website UNDEFINED
+2022-08-10 22:53:14,128 [main] INFO logger_File - Scenario login to Retail Website started
+2022-08-10 22:53:17,964 [main] INFO logger_File - Scenario login to Retail Website UNDEFINED
+2022-08-10 22:53:17,971 [main] INFO logger_File - Scenario login to Retail Website started
+2022-08-10 22:53:21,823 [main] INFO logger_File - Scenario login to Retail Website UNDEFINED
+2022-08-10 22:53:21,836 [main] INFO logger_File - Scenario login to Retail website with multiple credentials started
+2022-08-10 22:53:25,100 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-10 22:53:31,656 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-10 22:53:35,121 [main] INFO logger_File - Login was clicked successfuly
+2022-08-10 22:54:07,657 [main] INFO logger_File - Scenario login to Retail website with multiple credentials started
+2022-08-10 22:54:11,564 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-10 22:54:18,045 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-10 22:56:05,317 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-10 22:56:09,277 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-10 22:56:13,582 [main] INFO logger_File - user entered Register page information
+2022-08-10 22:56:13,628 [main] INFO logger_File - user clicked on Privacy Policy
+2022-08-10 22:56:14,235 [main] INFO logger_File - user clicked on continue button
+2022-08-10 22:57:45,213 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-10 22:57:48,822 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-10 22:57:53,452 [main] INFO logger_File - user entered Register page information
+2022-08-10 22:57:53,492 [main] INFO logger_File - user clicked on Privacy Policy
+2022-08-10 22:57:53,928 [main] INFO logger_File - user clicked on continue button
+2022-08-10 22:59:02,344 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-10 22:59:05,936 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-10 22:59:10,412 [main] INFO logger_File - user entered Register page information
+2022-08-10 22:59:10,456 [main] INFO logger_File - user clicked on Privacy Policy
+2022-08-10 22:59:10,866 [main] INFO logger_File - user clicked on continue button
+2022-08-10 23:00:00,402 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-10 23:00:04,018 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-10 23:00:08,576 [main] INFO logger_File - user entered Register page information
+2022-08-10 23:00:08,622 [main] INFO logger_File - user clicked on Privacy Policy
+2022-08-10 23:00:09,359 [main] INFO logger_File - user clicked on continue button
+2022-08-10 23:00:09,395 [main] INFO logger_File - Account has been created successfully
+2022-08-10 23:00:15,279 [main] INFO logger_File - Scenario Register to Retail Website PASSED
+2022-08-11 21:51:43,842 [main] INFO logger_File - Scenario login to Retail website with multiple credentials started
+2022-08-11 21:51:48,625 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 21:51:55,113 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-11 21:51:58,625 [main] INFO logger_File - Login was clicked successfuly
+2022-08-11 21:52:01,669 [main] INFO logger_File - My Account was verified successfuly
+2022-08-11 21:52:05,343 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-11 21:52:08,338 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 21:52:12,773 [main] INFO logger_File - user entered Register page information
+2022-08-11 21:52:12,819 [main] INFO logger_File - user clicked on Privacy Policy
+2022-08-11 21:52:13,402 [main] INFO logger_File - user clicked on continue button
+2022-08-11 21:52:48,048 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-11 21:52:50,944 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 21:52:54,689 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-08-11 21:52:54,694 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-11 21:52:57,486 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 21:53:01,229 [main] INFO logger_File - Scenario Edit your account Information UNDEFINED
+2022-08-11 21:53:52,789 [main] INFO logger_File - Scenario login to Retail website with multiple credentials started
+2022-08-11 21:53:56,142 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 21:54:02,670 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-11 21:54:06,137 [main] INFO logger_File - Login was clicked successfuly
+2022-08-11 21:54:09,179 [main] INFO logger_File - My Account was verified successfuly
+2022-08-11 21:54:12,876 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-11 21:54:15,893 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 21:54:20,254 [main] INFO logger_File - user entered Register page information
+2022-08-11 21:54:20,299 [main] INFO logger_File - user clicked on Privacy Policy
+2022-08-11 21:54:20,744 [main] INFO logger_File - user clicked on continue button
+2022-08-11 21:54:39,816 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-11 21:54:42,853 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 21:54:46,594 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-08-11 22:02:11,913 [main] INFO logger_File - Scenario login to Retail website with multiple credentials started
+2022-08-11 22:02:15,513 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 22:02:21,662 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-11 22:02:24,772 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 22:02:29,125 [main] INFO logger_File - user entered Register page information
+2022-08-11 22:02:29,171 [main] INFO logger_File - user clicked on Privacy Policy
+2022-08-11 22:02:29,620 [main] INFO logger_File - user clicked on continue button
+2022-08-11 22:02:59,903 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-11 22:03:02,932 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 22:05:21,469 [main] INFO logger_File - Scenario login to Retail website with multiple credentials started
+2022-08-11 22:05:24,552 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-11 22:05:28,067 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-11 22:06:39,309 [main] INFO logger_File - Scenario login to Retail website with multiple credentials started
+2022-08-11 22:06:43,232 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-11 22:06:46,765 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-11 22:43:58,300 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-11 22:44:02,224 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 22:44:02,365 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-11 22:44:03,183 [main] INFO logger_File - user clicked on show all desktops
+2022-08-11 22:44:03,241 [main] INFO logger_File - is present
+2022-08-11 22:44:03,273 [main] INFO logger_File - Desktopsis present
+2022-08-11 22:44:03,304 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-11 22:44:03,335 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-11 22:44:03,370 [main] INFO logger_File - HP LP3065is present
+2022-08-11 22:44:03,413 [main] INFO logger_File - HTC Touch HDis present
+2022-08-11 22:44:03,444 [main] INFO logger_File - iPhoneis present
+2022-08-11 22:44:03,474 [main] INFO logger_File - iPod Classicis present
+2022-08-11 22:44:03,506 [main] INFO logger_File - MacBookis present
+2022-08-11 22:44:03,537 [main] INFO logger_File - MacBook Airis present
+2022-08-11 22:44:03,569 [main] INFO logger_File - Palm Treo Prois present
+2022-08-11 22:44:03,601 [main] INFO logger_File - Product 8is present
+2022-08-11 22:44:03,632 [main] INFO logger_File - Samsung SyncMaster 941BWis present
+2022-08-11 22:44:03,663 [main] INFO logger_File - Sony VAIOis present
+2022-08-11 22:44:04,326 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-11 22:44:04,341 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-11 22:44:07,566 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 22:45:22,898 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-11 22:45:26,673 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 22:50:02,437 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-11 22:50:06,141 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 22:50:06,295 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-11 22:50:18,354 [main] INFO logger_File - user clicked on show all desktops
+2022-08-11 22:51:15,264 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-11 22:51:18,988 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 22:54:31,090 [main] INFO logger_File - Scenario login to Retail website with multiple credentials started
+2022-08-11 22:54:35,031 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 22:54:41,580 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-11 22:54:45,108 [main] INFO logger_File - Login was clicked successfuly
+2022-08-11 22:55:09,101 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-11 22:55:12,132 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 22:57:22,788 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-11 22:57:27,116 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 23:00:36,207 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-11 23:00:39,889 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 23:00:46,487 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-11 23:00:49,801 [main] INFO logger_File - Login was clicked successfuly
+2022-08-11 23:01:23,417 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-11 23:01:27,009 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 23:01:33,989 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-11 23:01:37,464 [main] INFO logger_File - Login was clicked successfuly
+2022-08-11 23:01:40,513 [main] INFO logger_File - My Account was verified successfuly
+2022-08-11 23:03:54,116 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-11 23:03:57,757 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 23:04:00,228 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-11 23:04:01,857 [main] INFO logger_File - Login was clicked successfuly
+2022-08-11 23:04:02,901 [main] INFO logger_File - My Account was verified successfuly
+2022-08-11 23:04:03,623 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-11 23:04:06,750 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 23:04:09,311 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-11 23:04:10,798 [main] INFO logger_File - Login was clicked successfuly
+2022-08-11 23:04:11,843 [main] INFO logger_File - My Account was verified successfuly
+2022-08-11 23:06:23,819 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-11 23:06:27,398 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 23:06:29,954 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-11 23:06:31,392 [main] INFO logger_File - Login was clicked successfuly
+2022-08-11 23:06:32,431 [main] INFO logger_File - My Account was verified successfuly
+2022-08-11 23:07:29,555 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-11 23:07:33,263 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 23:08:37,495 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-11 23:08:41,063 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 23:08:43,624 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-11 23:08:45,089 [main] INFO logger_File - Login was clicked successfuly
+2022-08-11 23:09:48,856 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-11 23:09:52,317 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 23:09:52,474 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-11 23:09:58,162 [main] INFO logger_File - user clicked on show all desktops
+2022-08-11 23:11:56,371 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-11 23:12:00,323 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 23:12:02,800 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-11 23:12:04,408 [main] INFO logger_File - Login was clicked successfuly
+2022-08-11 23:12:05,445 [main] INFO logger_File - My Account was verified successfuly
+2022-08-11 23:12:05,757 [main] INFO logger_File - Clicked on (Edit your affiliate information link) - successfuly
+2022-08-11 23:12:06,095 [main] INFO logger_File - user entered Register page information
+2022-08-11 23:12:09,768 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-08-11 23:12:18,098 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-11 23:12:21,697 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 23:12:21,837 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-11 23:12:22,485 [main] INFO logger_File - user clicked on show all desktops
+2022-08-11 23:12:22,544 [main] INFO logger_File - is present
+2022-08-11 23:12:22,575 [main] INFO logger_File - Desktopsis present
+2022-08-11 23:12:22,606 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-11 23:12:22,637 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-11 23:12:22,668 [main] INFO logger_File - HP LP3065is present
+2022-08-11 23:12:22,699 [main] INFO logger_File - HTC Touch HDis present
+2022-08-11 23:12:22,729 [main] INFO logger_File - iPhoneis present
+2022-08-11 23:12:22,762 [main] INFO logger_File - iPod Classicis present
+2022-08-11 23:12:22,792 [main] INFO logger_File - MacBookis present
+2022-08-11 23:12:22,823 [main] INFO logger_File - MacBook Airis present
+2022-08-11 23:12:22,855 [main] INFO logger_File - Palm Treo Prois present
+2022-08-11 23:12:22,886 [main] INFO logger_File - Product 8is present
+2022-08-11 23:12:22,917 [main] INFO logger_File - Samsung SyncMaster 941BWis present
+2022-08-11 23:12:22,948 [main] INFO logger_File - Sony VAIOis present
+2022-08-11 23:12:23,612 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-11 23:30:29,475 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-11 23:30:34,275 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 23:30:36,889 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-11 23:30:38,351 [main] INFO logger_File - Login was clicked successfuly
+2022-08-11 23:30:39,393 [main] INFO logger_File - My Account was verified successfuly
+2022-08-11 23:30:40,717 [main] INFO logger_File - Clicked on (Edit your affiliate information link) - successfuly
+2022-08-11 23:30:43,067 [main] INFO logger_File - user entered Register page information
+2022-08-11 23:30:45,651 [main] INFO logger_File - Account has been successfully updated successfuly.
+2022-08-11 23:30:47,533 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-08-11 23:34:17,690 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-11 23:34:21,994 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 23:34:24,571 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-11 23:34:26,101 [main] INFO logger_File - Login was clicked successfuly
+2022-08-11 23:34:27,144 [main] INFO logger_File - My Account was verified successfuly
+2022-08-11 23:34:45,520 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-11 23:34:48,978 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 23:34:51,448 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-11 23:34:52,903 [main] INFO logger_File - Login was clicked successfuly
+2022-08-11 23:34:53,954 [main] INFO logger_File - My Account was verified successfuly
+2022-08-11 23:34:55,235 [main] INFO logger_File - Clicked on (Edit your affiliate information link) - successfuly
+2022-08-11 23:34:57,572 [main] INFO logger_File - user entered Register page information
+2022-08-11 23:35:00,186 [main] INFO logger_File - Account has been successfully updated successfuly.
+2022-08-11 23:35:02,089 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-08-11 23:35:02,107 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-11 23:35:05,506 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 23:35:08,069 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-11 23:35:09,518 [main] INFO logger_File - Login was clicked successfuly
+2022-08-11 23:35:10,560 [main] INFO logger_File - My Account was verified successfuly
+2022-08-11 23:35:12,255 [main] INFO logger_File - Scenario Edit your account Information UNDEFINED
+2022-08-11 23:58:19,566 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-11 23:58:23,185 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-11 23:58:25,729 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-11 23:58:27,369 [main] INFO logger_File - Login was clicked successfuly
+2022-08-11 23:58:28,416 [main] INFO logger_File - My Account was verified successfuly
+2022-08-11 23:58:32,250 [main] INFO logger_File - Scenario Edit your account Information UNDEFINED
+2022-08-12 00:00:48,467 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-12 00:00:52,279 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 00:00:54,841 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-12 00:00:56,320 [main] INFO logger_File - Login was clicked successfuly
+2022-08-12 00:00:57,357 [main] INFO logger_File - My Account was verified successfuly
+2022-08-12 00:01:01,171 [main] INFO logger_File - Scenario Edit your account Information UNDEFINED
+2022-08-12 00:07:15,193 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-12 00:07:18,961 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 00:07:21,537 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-12 00:07:22,979 [main] INFO logger_File - Login was clicked successfuly
+2022-08-12 00:07:24,022 [main] INFO logger_File - My Account was verified successfuly
+2022-08-12 00:07:25,842 [main] INFO logger_File - Edit your account information’ link click successfuly.
+2022-08-12 00:07:26,078 [main] INFO logger_File - User modify below information Entered successfuly .
+2022-08-12 00:09:10,718 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-12 00:09:14,317 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 00:09:16,844 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-12 00:09:18,251 [main] INFO logger_File - Login was clicked successfuly
+2022-08-12 00:09:19,300 [main] INFO logger_File - My Account was verified successfuly
+2022-08-12 00:09:21,100 [main] INFO logger_File - Edit your account information’ link click successfuly.
+2022-08-12 00:09:21,465 [main] INFO logger_File - User modify below information Entered successfuly .
+2022-08-12 00:09:23,951 [main] INFO logger_File - Success: Your account has been successfully updated. = ‘Success: Your account has been successfully updated.’
+2022-08-12 00:09:25,827 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2022-08-12 00:15:26,005 [main] INFO logger_File - Scenario User verify currency values change started
+2022-08-12 00:15:29,814 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 00:15:30,493 [main] INFO logger_File - Scenario User verify currency values change UNDEFINED
+2022-08-12 00:15:30,502 [main] INFO logger_File - Scenario User empty Shopping cart message displays started
+2022-08-12 00:15:34,146 [main] INFO logger_File - Scenario User empty Shopping cart message displays UNDEFINED
+2022-08-12 00:53:24,680 [main] INFO logger_File - Scenario User verify currency values change started
+2022-08-12 00:53:28,469 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 00:53:28,521 [main] INFO logger_File - click on Currency successfuly
+2022-08-12 00:53:29,942 [main] INFO logger_File - Chose Euro from dropdown successfuly
+2022-08-12 00:53:30,988 [main] INFO logger_File - currency value should change to Euro successfuly
+2022-08-12 00:53:32,658 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2022-08-12 00:54:14,514 [main] INFO logger_File - Scenario User empty Shopping cart message displays started
+2022-08-12 00:54:17,989 [main] INFO logger_File - click successfuly
+2022-08-12 00:54:19,054 [main] INFO logger_File - “Your shopping cart is empty!” message Checked successfuly  = Your shopping cart is empty!
+2022-08-12 00:54:21,191 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2022-08-12 19:21:17,594 [main] INFO logger_File - Scenario User empty Shopping cart message displays started
+2022-08-12 19:21:21,278 [main] INFO logger_File - click successfuly
+2022-08-12 19:21:22,321 [main] INFO logger_File - “Your shopping cart is empty!” message Checked successfuly  = Your shopping cart is empty!
+2022-08-12 19:21:24,096 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2022-08-12 19:22:28,085 [main] INFO logger_File - Scenario User empty Shopping cart message displays started
+2022-08-12 19:22:31,173 [main] INFO logger_File - click successfuly
+2022-08-12 19:22:32,215 [main] INFO logger_File - “Your shopping cart is empty!” message Checked successfuly  = Your shopping cart is empty!
+2022-08-12 19:22:33,726 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2022-08-12 19:28:04,653 [main] INFO logger_File - Scenario User empty Shopping cart message displays started
+2022-08-12 19:28:07,784 [main] INFO logger_File - click successfuly
+2022-08-12 19:28:08,819 [main] INFO logger_File - “Your shopping cart is empty!” message Checked successfuly  = Your shopping cart is empty!
+2022-08-12 19:28:10,552 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2022-08-12 19:31:35,247 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-12 19:31:38,439 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 19:31:40,918 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-12 19:31:42,332 [main] INFO logger_File - Login was clicked successfuly
+2022-08-12 19:32:57,902 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-12 19:33:01,009 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 19:33:03,530 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-12 19:33:05,087 [main] INFO logger_File - Login was clicked successfuly
+2022-08-12 19:33:06,115 [main] INFO logger_File - My Account was verified successfuly
+2022-08-12 19:33:08,114 [main] INFO logger_File - Edit your account information’ link click successfuly.
+2022-08-12 19:33:08,374 [main] INFO logger_File - User modify below information Entered successfuly .
+2022-08-12 19:36:19,894 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-12 19:36:23,124 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 19:36:25,622 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-12 19:36:27,260 [main] INFO logger_File - Login was clicked successfuly
+2022-08-12 19:36:28,291 [main] INFO logger_File - My Account was verified successfuly
+2022-08-12 19:36:30,347 [main] INFO logger_File - Edit your account information’ link click successfuly.
+2022-08-12 19:36:30,612 [main] INFO logger_File - User modify below information Entered successfuly .
+2022-08-12 19:36:33,053 [main] INFO logger_File - Success: Your account has been successfully updated. = ‘Success: Your account has been successfully updated.’
+2022-08-12 19:36:34,387 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2022-08-12 19:54:55,842 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-12 19:54:59,076 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 19:54:59,217 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 19:55:15,782 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 19:55:15,841 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 19:55:18,600 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 19:55:18,734 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 19:55:19,453 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 19:55:19,592 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-08-12 19:55:19,598 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-12 19:55:22,251 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 19:55:22,371 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 19:55:22,957 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 19:55:23,097 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-08-12 19:55:23,105 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-12 19:55:25,773 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 19:55:25,896 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 19:55:26,510 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 19:55:26,659 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab UNDEFINED
+2022-08-12 20:23:29,430 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 20:23:33,293 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 20:23:33,427 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 20:23:34,035 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 20:23:35,605 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 20:24:25,301 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 20:24:28,443 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 20:24:28,581 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 20:24:39,194 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 20:24:59,603 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 20:25:02,698 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 20:25:02,841 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 20:25:03,445 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 20:25:04,893 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 20:25:07,343 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-08-12 20:31:20,619 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 20:31:23,745 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 20:31:23,880 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 20:31:24,535 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 20:31:25,870 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 20:31:28,323 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-08-12 20:34:48,389 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 20:34:51,345 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 20:34:51,479 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 20:34:52,085 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 20:34:53,815 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 20:35:41,470 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 20:35:44,655 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 20:35:44,800 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 20:35:55,878 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 20:36:17,069 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 20:36:20,263 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 20:36:20,396 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 20:36:21,009 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 20:36:22,457 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 20:36:25,051 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-08-12 20:41:43,571 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 20:41:46,710 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 20:41:46,852 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 20:41:47,463 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 20:41:49,230 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 20:43:06,564 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 20:43:09,781 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 20:43:09,920 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 20:43:10,642 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 20:43:12,026 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 20:44:10,008 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 20:44:13,136 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 20:44:13,279 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 20:44:13,863 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 20:44:15,236 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 20:53:14,528 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 20:53:17,691 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 20:53:17,832 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 20:53:24,334 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 20:53:44,294 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 20:53:47,407 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 20:53:47,543 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 20:53:48,174 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 20:53:49,678 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 20:53:52,598 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-08-12 21:00:30,750 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 21:00:33,889 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:00:34,021 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:00:34,819 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:00:36,192 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 21:00:36,264 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 21:00:36,298 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 21:03:22,603 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 21:03:25,813 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:03:25,947 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:03:26,665 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:03:28,536 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 21:03:28,613 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 21:03:28,649 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 21:03:28,855 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-08-12 21:05:14,398 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 21:05:17,481 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:05:17,616 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:05:21,413 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:05:30,089 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 21:05:33,324 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:05:33,461 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:05:34,236 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:05:35,671 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 21:05:35,741 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 21:05:35,778 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 21:05:38,252 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-08-12 21:08:52,961 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 21:08:56,310 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:08:56,448 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:08:57,176 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:08:58,581 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 21:08:58,653 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 21:08:58,690 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 21:09:01,173 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-08-12 21:10:24,850 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 21:10:28,183 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:10:28,321 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:10:29,038 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:10:30,304 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 21:10:30,375 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 21:10:30,411 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 21:10:32,871 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-08-12 21:11:17,853 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 21:11:21,429 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:11:21,571 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:11:22,296 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:11:23,831 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 21:11:23,902 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 21:11:23,939 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 21:11:26,417 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-08-12 21:14:13,422 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 21:14:16,899 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:14:17,034 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:14:17,759 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:14:19,158 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 21:14:19,230 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 21:14:19,266 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 21:15:01,892 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 21:15:05,340 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:15:05,485 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:15:10,561 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:15:16,487 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 21:15:19,976 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:15:20,107 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:15:20,831 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:15:22,517 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 21:15:22,595 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 21:15:22,638 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 21:16:09,757 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-12 21:16:13,289 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:16:13,430 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:16:14,240 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:16:14,282 [main] INFO logger_File - is present
+2022-08-12 21:16:14,301 [main] INFO logger_File - Desktopsis present
+2022-08-12 21:16:14,315 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-12 21:16:14,331 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-12 21:16:14,348 [main] INFO logger_File - HP LP3065is present
+2022-08-12 21:16:14,362 [main] INFO logger_File - HTC Touch HDis present
+2022-08-12 21:16:14,376 [main] INFO logger_File - iPhoneis present
+2022-08-12 21:16:14,389 [main] INFO logger_File - iPod Classicis present
+2022-08-12 21:16:14,406 [main] INFO logger_File - MacBookis present
+2022-08-12 21:16:14,419 [main] INFO logger_File - MacBook Airis present
+2022-08-12 21:16:14,433 [main] INFO logger_File - Palm Treo Prois present
+2022-08-12 21:16:14,448 [main] INFO logger_File - Product 8is present
+2022-08-12 21:16:14,464 [main] INFO logger_File - Samsung SyncMaster 941BWis present
+2022-08-12 21:16:14,477 [main] INFO logger_File - Sony VAIOis present
+2022-08-12 21:16:14,627 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-12 21:16:14,649 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 21:16:17,708 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:16:17,834 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:16:23,178 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:17:39,475 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-12 21:17:42,694 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:17:42,828 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:17:43,414 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:17:43,454 [main] INFO logger_File - is present
+2022-08-12 21:17:43,475 [main] INFO logger_File - Desktopsis present
+2022-08-12 21:17:43,491 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-12 21:17:43,507 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-12 21:17:43,521 [main] INFO logger_File - HP LP3065is present
+2022-08-12 21:17:43,538 [main] INFO logger_File - HTC Touch HDis present
+2022-08-12 21:17:43,552 [main] INFO logger_File - iPhoneis present
+2022-08-12 21:17:43,566 [main] INFO logger_File - iPod Classicis present
+2022-08-12 21:17:43,580 [main] INFO logger_File - MacBookis present
+2022-08-12 21:17:43,595 [main] INFO logger_File - MacBook Airis present
+2022-08-12 21:17:43,609 [main] INFO logger_File - Palm Treo Prois present
+2022-08-12 21:17:43,625 [main] INFO logger_File - Product 8is present
+2022-08-12 21:17:43,640 [main] INFO logger_File - Samsung SyncMaster 941BWis present
+2022-08-12 21:17:43,655 [main] INFO logger_File - Sony VAIOis present
+2022-08-12 21:17:43,792 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-12 21:17:43,831 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 21:17:46,507 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:17:46,628 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:17:47,239 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:17:48,741 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 21:17:48,817 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 21:17:48,852 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 21:17:51,329 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-08-12 21:19:03,919 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 21:19:07,029 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:19:07,162 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:19:07,754 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:19:09,181 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 21:19:09,252 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 21:19:09,288 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 21:22:35,032 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 21:22:38,276 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:22:38,410 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:22:39,144 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:22:40,406 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 21:22:40,478 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 21:22:40,515 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 21:24:32,899 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 21:24:35,885 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:24:36,027 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:24:36,667 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:24:38,031 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 21:24:38,104 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 21:24:38,138 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 21:24:38,492 [main] INFO logger_File - Success: you have added HP LP3065 to your Shopping cart!equals to Success: you have added HP LP3065 to your Shopping cart!
+2022-08-12 21:24:42,181 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-08-12 21:55:31,831 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-12 21:55:36,031 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:55:36,173 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:55:36,895 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:55:38,204 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 21:55:38,281 [main] INFO logger_File - User selected color from dropdown Red
+2022-08-12 21:55:38,358 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 21:55:38,395 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 21:58:39,469 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-12 21:58:42,686 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:58:42,828 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:58:43,531 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:58:43,573 [main] INFO logger_File - is present
+2022-08-12 21:58:43,592 [main] INFO logger_File - Desktopsis present
+2022-08-12 21:58:43,608 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-12 21:58:43,622 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-12 21:58:43,640 [main] INFO logger_File - HP LP3065is present
+2022-08-12 21:58:43,655 [main] INFO logger_File - HTC Touch HDis present
+2022-08-12 21:58:43,668 [main] INFO logger_File - iPhoneis present
+2022-08-12 21:58:43,681 [main] INFO logger_File - iPod Classicis present
+2022-08-12 21:58:43,696 [main] INFO logger_File - MacBookis present
+2022-08-12 21:58:43,712 [main] INFO logger_File - MacBook Airis present
+2022-08-12 21:58:43,725 [main] INFO logger_File - Palm Treo Prois present
+2022-08-12 21:58:43,740 [main] INFO logger_File - Product 8is present
+2022-08-12 21:58:43,755 [main] INFO logger_File - Samsung SyncMaster 941BWis present
+2022-08-12 21:58:43,771 [main] INFO logger_File - Sony VAIOis present
+2022-08-12 21:58:43,903 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-12 21:58:43,923 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 21:58:46,595 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:58:46,724 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:58:47,297 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:58:48,592 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 21:58:48,662 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 21:58:48,696 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 21:58:49,035 [main] INFO logger_File - Success: you have added HP LP3065 to your Shopping cart!equals to Success: you have added HP LP3065 to your Shopping cart!
+2022-08-12 21:58:52,735 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-08-12 21:58:52,741 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-12 21:58:55,388 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:58:55,525 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:58:56,139 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 21:58:57,466 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 21:58:57,542 [main] INFO logger_File - User selected color from dropdown Red
+2022-08-12 21:58:57,624 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 21:58:57,657 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 21:59:52,532 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-12 21:59:55,647 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 21:59:55,796 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 21:59:59,100 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:00:08,910 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-12 22:00:12,002 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:00:12,143 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:00:12,761 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:00:14,061 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 22:00:14,141 [main] INFO logger_File - User selected color from dropdown Red
+2022-08-12 22:00:14,218 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 22:00:14,256 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 22:02:02,877 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-12 22:02:05,976 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:02:06,108 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:02:06,709 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:02:06,752 [main] INFO logger_File - is present
+2022-08-12 22:02:06,770 [main] INFO logger_File - Desktopsis present
+2022-08-12 22:02:06,787 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-12 22:02:06,801 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-12 22:02:06,816 [main] INFO logger_File - HP LP3065is present
+2022-08-12 22:02:06,833 [main] INFO logger_File - HTC Touch HDis present
+2022-08-12 22:02:06,849 [main] INFO logger_File - iPhoneis present
+2022-08-12 22:02:06,862 [main] INFO logger_File - iPod Classicis present
+2022-08-12 22:02:06,876 [main] INFO logger_File - MacBookis present
+2022-08-12 22:02:06,892 [main] INFO logger_File - MacBook Airis present
+2022-08-12 22:02:06,905 [main] INFO logger_File - Palm Treo Prois present
+2022-08-12 22:02:06,919 [main] INFO logger_File - Product 8is present
+2022-08-12 22:02:06,935 [main] INFO logger_File - Samsung SyncMaster 941BWis present
+2022-08-12 22:02:06,951 [main] INFO logger_File - Sony VAIOis present
+2022-08-12 22:02:07,120 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-12 22:02:07,137 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 22:02:09,672 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:02:09,806 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:02:10,390 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:02:11,759 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 22:02:11,831 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 22:02:11,864 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 22:02:12,205 [main] INFO logger_File - Success: you have added HP LP3065 to your Shopping cart!equals to Success: you have added HP LP3065 to your Shopping cart!
+2022-08-12 22:02:15,918 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-08-12 22:02:15,940 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-12 22:02:19,071 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:02:19,205 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:02:19,849 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:02:21,211 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 22:02:21,288 [main] INFO logger_File - User selected color from dropdown Red
+2022-08-12 22:02:21,368 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 22:02:21,402 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 22:02:23,850 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-08-12 22:03:29,609 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-12 22:03:33,377 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:03:33,508 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:03:34,279 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:03:34,323 [main] INFO logger_File - is present
+2022-08-12 22:03:34,341 [main] INFO logger_File - Desktopsis present
+2022-08-12 22:03:34,358 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-12 22:03:34,373 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-12 22:03:34,391 [main] INFO logger_File - HP LP3065is present
+2022-08-12 22:03:34,405 [main] INFO logger_File - HTC Touch HDis present
+2022-08-12 22:03:34,419 [main] INFO logger_File - iPhoneis present
+2022-08-12 22:03:34,432 [main] INFO logger_File - iPod Classicis present
+2022-08-12 22:03:34,448 [main] INFO logger_File - MacBookis present
+2022-08-12 22:03:34,462 [main] INFO logger_File - MacBook Airis present
+2022-08-12 22:03:34,475 [main] INFO logger_File - Palm Treo Prois present
+2022-08-12 22:03:34,490 [main] INFO logger_File - Product 8is present
+2022-08-12 22:03:34,507 [main] INFO logger_File - Samsung SyncMaster 941BWis present
+2022-08-12 22:03:34,521 [main] INFO logger_File - Sony VAIOis present
+2022-08-12 22:03:34,648 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-12 22:03:34,685 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 22:03:37,828 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:03:37,959 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:03:45,515 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:03:45,544 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-12 22:03:49,232 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:03:49,366 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:03:50,067 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:03:51,728 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 22:03:51,803 [main] INFO logger_File - User selected color from dropdown Red
+2022-08-12 22:03:51,887 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 22:03:51,923 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 22:03:54,353 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-08-12 22:05:16,136 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-12 22:05:19,664 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:05:19,795 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:05:20,460 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:05:21,908 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 22:05:21,983 [main] INFO logger_File - User selected color from dropdown Red
+2022-08-12 22:05:22,058 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 22:05:22,092 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 22:12:51,940 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-12 22:12:55,269 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:12:55,404 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:12:56,157 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:12:57,578 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 22:12:57,657 [main] INFO logger_File - User selected color from dropdown Red
+2022-08-12 22:12:57,732 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 22:12:57,768 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 22:14:52,404 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-12 22:14:55,549 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:14:55,694 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:14:56,323 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:14:57,643 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 22:14:57,721 [main] INFO logger_File - User selected color from dropdown Red
+2022-08-12 22:14:57,804 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 22:14:57,839 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 22:16:14,352 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 22:16:17,454 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:16:17,585 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:16:18,209 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:16:20,032 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 22:16:20,106 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 22:16:20,141 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 22:19:49,146 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-12 22:19:52,357 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:19:52,496 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:19:53,211 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:19:54,644 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 22:19:54,721 [main] INFO logger_File - User selected color from dropdown Red
+2022-08-12 22:19:54,798 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 22:19:54,832 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 22:21:40,850 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-12 22:21:44,077 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:21:44,207 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:21:45,000 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:21:46,333 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 22:21:46,410 [main] INFO logger_File - User selected color from dropdown Red
+2022-08-12 22:21:46,490 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 22:21:46,528 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 22:21:46,876 [main] INFO logger_File - Success: You have added Canon EOS 5D Camera to your shopping cart!equals to Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-08-12 22:21:50,595 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-08-12 22:22:01,654 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 22:22:05,203 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:22:05,333 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:22:06,025 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:22:07,383 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 22:22:07,457 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 22:22:07,494 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 22:22:07,830 [main] INFO logger_File - Success: You have added HP LP3065 to your shopping cart!equals to Success: You have added HP LP3065 to your shopping cart!
+2022-08-12 22:22:09,293 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-08-12 22:24:41,317 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-12 22:24:44,954 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:24:45,086 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:24:45,796 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:24:45,840 [main] INFO logger_File - is present
+2022-08-12 22:24:45,859 [main] INFO logger_File - Desktopsis present
+2022-08-12 22:24:45,875 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-12 22:24:45,892 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-12 22:24:45,911 [main] INFO logger_File - HP LP3065is present
+2022-08-12 22:24:45,925 [main] INFO logger_File - HTC Touch HDis present
+2022-08-12 22:24:45,941 [main] INFO logger_File - iPhoneis present
+2022-08-12 22:24:45,955 [main] INFO logger_File - iPod Classicis present
+2022-08-12 22:24:45,971 [main] INFO logger_File - MacBookis present
+2022-08-12 22:24:45,986 [main] INFO logger_File - MacBook Airis present
+2022-08-12 22:24:46,001 [main] INFO logger_File - Palm Treo Prois present
+2022-08-12 22:24:46,015 [main] INFO logger_File - Product 8is present
+2022-08-12 22:24:46,034 [main] INFO logger_File - Samsung SyncMaster 941BWis present
+2022-08-12 22:24:46,048 [main] INFO logger_File - Sony VAIOis present
+2022-08-12 22:24:46,185 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-12 22:24:46,205 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 22:24:49,307 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:24:49,436 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:24:50,118 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:24:51,771 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 22:24:51,841 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 22:24:51,877 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 22:24:52,213 [main] INFO logger_File - Success: You have added HP LP3065 to your shopping cart!equals to Success: You have added HP LP3065 to your shopping cart!
+2022-08-12 22:24:55,956 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-08-12 22:24:55,963 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-12 22:24:58,865 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:24:58,992 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:25:04,748 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:25:04,806 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-12 22:25:07,888 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:25:08,035 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:25:10,022 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:54:55,430 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-12 22:54:58,744 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:54:58,874 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:54:59,609 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:54:59,648 [main] INFO logger_File - is present
+2022-08-12 22:54:59,669 [main] INFO logger_File - Desktopsis present
+2022-08-12 22:54:59,685 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-12 22:54:59,699 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-12 22:54:59,714 [main] INFO logger_File - HP LP3065is present
+2022-08-12 22:54:59,732 [main] INFO logger_File - HTC Touch HDis present
+2022-08-12 22:54:59,746 [main] INFO logger_File - iPhoneis present
+2022-08-12 22:54:59,759 [main] INFO logger_File - iPod Classicis present
+2022-08-12 22:54:59,772 [main] INFO logger_File - MacBookis present
+2022-08-12 22:54:59,788 [main] INFO logger_File - MacBook Airis present
+2022-08-12 22:54:59,801 [main] INFO logger_File - Palm Treo Prois present
+2022-08-12 22:54:59,816 [main] INFO logger_File - Product 8is present
+2022-08-12 22:54:59,833 [main] INFO logger_File - Samsung SyncMaster 941BWis present
+2022-08-12 22:54:59,848 [main] INFO logger_File - Sony VAIOis present
+2022-08-12 22:54:59,986 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-12 22:55:00,005 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-12 22:55:02,756 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:55:02,879 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:55:05,986 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:55:06,018 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-12 22:55:09,117 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:55:09,253 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:55:09,955 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:55:11,507 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-12 22:55:11,583 [main] INFO logger_File - User selected color from dropdown Red
+2022-08-12 22:55:11,683 [main] INFO logger_File - Usr selected quantity 1
+2022-08-12 22:55:11,718 [main] INFO logger_File - User clicked add to cart button
+2022-08-12 22:55:12,050 [main] INFO logger_File - Success: You have added Canon EOS 5D Camera to your shopping cart!equals to Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-08-12 22:55:15,678 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-12 22:55:19,006 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 22:55:19,142 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 22:55:19,805 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 22:55:23,989 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-08-12 23:04:30,093 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-12 23:04:33,081 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 23:04:33,218 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 23:04:33,868 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 23:04:35,206 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-12 23:04:36,252 [main] INFO logger_File - User clicked on write a review link
+2022-08-12 23:04:37,416 [main] INFO logger_File - User fill the review information with below information
+2022-08-12 23:04:38,460 [main] INFO logger_File - User clicked on Continue Button
+2022-08-12 23:04:39,470 [main] INFO logger_File - User should see a message
+2022-08-12 23:04:42,951 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-08-12 23:35:20,562 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-12 23:35:24,908 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 23:35:25,047 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 23:35:25,655 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 23:35:26,937 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-12 23:35:27,979 [main] INFO logger_File - User clicked on write a review link
+2022-08-12 23:35:29,209 [main] INFO logger_File - User fill the review information with below information
+2022-08-12 23:35:30,257 [main] INFO logger_File - User clicked on Continue Button
+2022-08-12 23:36:31,866 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-12 23:36:36,207 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 23:36:36,348 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 23:36:41,809 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 23:36:54,121 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-12 23:36:58,263 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 23:36:58,398 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 23:36:58,997 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 23:37:00,361 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-12 23:37:01,409 [main] INFO logger_File - User clicked on write a review link
+2022-08-12 23:37:02,641 [main] INFO logger_File - User fill the review information with below information
+2022-08-12 23:37:03,689 [main] INFO logger_File - User clicked on Continue Button
+2022-08-12 23:40:02,192 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-12 23:40:05,965 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 23:40:06,102 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 23:40:06,860 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 23:40:08,340 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-12 23:40:09,387 [main] INFO logger_File - User clicked on write a review link
+2022-08-12 23:40:10,627 [main] INFO logger_File - User fill the review information with below information
+2022-08-12 23:40:11,667 [main] INFO logger_File - User clicked on Continue Button
+2022-08-12 23:42:07,879 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-12 23:42:11,531 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 23:42:11,675 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 23:42:12,337 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 23:42:13,675 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-12 23:42:14,724 [main] INFO logger_File - User clicked on write a review link
+2022-08-12 23:42:15,965 [main] INFO logger_File - User fill the review information with below information
+2022-08-12 23:42:17,011 [main] INFO logger_File - User clicked on Continue Button
+2022-08-12 23:48:47,537 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-12 23:48:50,641 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 23:48:50,786 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 23:48:55,968 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 23:49:04,927 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-12 23:49:07,915 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 23:49:08,062 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 23:49:08,677 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 23:49:10,118 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-12 23:49:11,167 [main] INFO logger_File - User clicked on write a review link
+2022-08-12 23:49:12,416 [main] INFO logger_File - User fill the review information with below information
+2022-08-12 23:49:13,456 [main] INFO logger_File - User clicked on Continue Button
+2022-08-12 23:50:35,247 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-12 23:50:38,217 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 23:50:38,354 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 23:50:38,957 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 23:50:40,465 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-12 23:50:41,506 [main] INFO logger_File - User clicked on write a review link
+2022-08-12 23:50:42,747 [main] INFO logger_File - User fill the review information with below information
+2022-08-12 23:56:08,270 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-12 23:56:11,901 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-12 23:56:12,047 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-12 23:56:12,684 [main] INFO logger_File - user clicked on show all desktops
+2022-08-12 23:56:13,990 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-12 23:56:15,042 [main] INFO logger_File - User clicked on write a review link
+2022-08-12 23:56:16,287 [main] INFO logger_File - User fill the review information with below information
+2022-08-13 00:00:30,163 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:00:33,299 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:00:33,429 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:00:34,018 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:00:35,754 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-13 00:00:36,804 [main] INFO logger_File - User clicked on write a review link
+2022-08-13 00:00:38,049 [main] INFO logger_File - User fill the review information with below information
+2022-08-13 00:01:14,284 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:01:17,285 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:01:17,429 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:01:18,040 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:01:19,377 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-13 00:01:20,416 [main] INFO logger_File - User clicked on write a review link
+2022-08-13 00:04:11,481 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:04:14,720 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:04:14,863 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:04:15,549 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:04:16,804 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-13 00:04:17,849 [main] INFO logger_File - User clicked on write a review link
+2022-08-13 00:05:06,538 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:05:09,787 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:05:09,932 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:05:10,666 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:05:11,902 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-13 00:05:12,942 [main] INFO logger_File - User clicked on write a review link
+2022-08-13 00:05:14,179 [main] INFO logger_File - User fill the review information with below information
+2022-08-13 00:05:15,221 [main] INFO logger_File - User clicked on Continue Button
+2022-08-13 00:06:14,169 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:06:17,707 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:06:17,843 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:06:18,558 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:06:19,882 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-13 00:06:20,931 [main] INFO logger_File - User clicked on write a review link
+2022-08-13 00:06:22,171 [main] INFO logger_File - User fill the review information with below information
+2022-08-13 00:06:23,217 [main] INFO logger_File - User clicked on Continue Button
+2022-08-13 00:07:37,945 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:07:40,912 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:07:41,054 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:07:46,296 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:07:53,682 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:07:56,633 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:07:56,765 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:07:57,350 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:07:58,937 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-13 00:07:59,975 [main] INFO logger_File - User clicked on write a review link
+2022-08-13 00:08:01,223 [main] INFO logger_File - User fill the review information with below information
+2022-08-13 00:08:02,274 [main] INFO logger_File - User clicked on Continue Button
+2022-08-13 00:09:23,958 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:09:27,728 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:09:27,862 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:09:28,523 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:09:29,826 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-13 00:09:30,876 [main] INFO logger_File - User clicked on write a review link
+2022-08-13 00:09:32,126 [main] INFO logger_File - User fill the review information with below information
+2022-08-13 00:09:33,167 [main] INFO logger_File - User clicked on Continue Button
+2022-08-13 00:11:05,345 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:11:08,494 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:11:08,636 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:11:12,432 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:11:20,108 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:11:23,090 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:11:23,234 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:11:23,868 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:11:25,321 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-13 00:11:26,367 [main] INFO logger_File - User clicked on write a review link
+2022-08-13 00:11:27,609 [main] INFO logger_File - User fill the review information with below information
+2022-08-13 00:11:28,657 [main] INFO logger_File - User clicked on Continue Button
+2022-08-13 00:12:58,662 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:13:01,962 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:13:02,122 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:13:09,161 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:13:12,664 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:13:15,786 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:13:15,940 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:13:16,556 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:13:17,949 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-13 00:13:18,996 [main] INFO logger_File - User clicked on write a review link
+2022-08-13 00:13:20,253 [main] INFO logger_File - User fill the review information with below information
+2022-08-13 00:13:21,295 [main] INFO logger_File - User clicked on Continue Button
+2022-08-13 00:14:56,270 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:14:59,393 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:14:59,525 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:15:00,110 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:15:01,389 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-13 00:15:02,432 [main] INFO logger_File - User clicked on write a review link
+2022-08-13 00:15:03,670 [main] INFO logger_File - User fill the review information with below information
+2022-08-13 00:15:04,717 [main] INFO logger_File - User clicked on Continue Button
+2022-08-13 00:15:08,206 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-08-13 00:15:46,772 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:15:49,886 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:15:50,022 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:15:50,653 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:15:52,058 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-13 00:15:53,097 [main] INFO logger_File - User clicked on write a review link
+2022-08-13 00:15:54,340 [main] INFO logger_File - User fill the review information with below information
+2022-08-13 00:15:55,386 [main] INFO logger_File - User clicked on Continue Button
+2022-08-13 00:15:58,866 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-08-13 00:38:15,452 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:38:18,740 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:38:18,882 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:38:19,512 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:38:20,854 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-13 00:38:21,902 [main] INFO logger_File - User clicked on write a review link
+2022-08-13 00:38:23,140 [main] INFO logger_File - User fill the review information with below information
+2022-08-13 00:38:24,177 [main] INFO logger_File - User clicked on Continue Button
+2022-08-13 00:38:27,657 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-08-13 00:39:17,448 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:39:20,434 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:39:20,567 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:39:21,171 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:39:22,670 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-13 00:39:23,713 [main] INFO logger_File - User clicked on write a review link
+2022-08-13 00:39:24,962 [main] INFO logger_File - User fill the review information with below information
+2022-08-13 00:39:26,005 [main] INFO logger_File - User clicked on Continue Button
+2022-08-13 00:39:29,482 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-08-13 00:47:57,290 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:48:00,851 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:48:00,991 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:48:01,703 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:48:03,047 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-13 00:48:04,097 [main] INFO logger_File - User clicked on write a review link
+2022-08-13 00:48:05,329 [main] INFO logger_File - User fill the review information with below information
+2022-08-13 00:48:06,380 [main] INFO logger_File - User clicked on Continue Button
+2022-08-13 00:48:09,877 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-08-13 00:49:37,608 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:49:40,724 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:49:40,860 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:49:41,450 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:49:42,863 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-13 00:49:43,907 [main] INFO logger_File - User clicked on write a review link
+2022-08-13 00:49:45,132 [main] INFO logger_File - User fill the review information with below information
+2022-08-13 00:49:46,170 [main] INFO logger_File - User clicked on Continue Button
+2022-08-13 00:49:47,413 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-08-13 00:50:02,190 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:50:05,534 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:50:05,676 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:50:06,368 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:50:07,544 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-13 00:50:08,586 [main] INFO logger_File - User clicked on write a review link
+2022-08-13 00:50:09,822 [main] INFO logger_File - User fill the review information with below information
+2022-08-13 00:50:10,870 [main] INFO logger_File - User clicked on Continue Button
+2022-08-13 00:50:14,378 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-08-13 00:50:44,366 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-13 00:50:47,205 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:50:47,344 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:50:48,449 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:50:48,491 [main] INFO logger_File - is present
+2022-08-13 00:50:48,512 [main] INFO logger_File - Desktopsis present
+2022-08-13 00:50:48,528 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-13 00:50:48,543 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-13 00:50:48,561 [main] INFO logger_File - HP LP3065is present
+2022-08-13 00:50:48,575 [main] INFO logger_File - HTC Touch HDis present
+2022-08-13 00:50:48,589 [main] INFO logger_File - iPhoneis present
+2022-08-13 00:50:48,603 [main] INFO logger_File - iPod Classicis present
+2022-08-13 00:50:48,619 [main] INFO logger_File - MacBookis present
+2022-08-13 00:50:48,634 [main] INFO logger_File - MacBook Airis present
+2022-08-13 00:50:48,648 [main] INFO logger_File - Palm Treo Prois present
+2022-08-13 00:50:48,662 [main] INFO logger_File - Product 8is present
+2022-08-13 00:50:48,676 [main] INFO logger_File - Samsung SyncMaster 941BWis present
+2022-08-13 00:50:48,692 [main] INFO logger_File - Sony VAIOis present
+2022-08-13 00:50:48,825 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-13 00:50:48,849 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-13 00:50:51,852 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:50:51,985 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:50:52,709 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:50:54,061 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-13 00:50:54,134 [main] INFO logger_File - Usr selected quantity 1
+2022-08-13 00:50:54,168 [main] INFO logger_File - User clicked add to cart button
+2022-08-13 00:50:54,522 [main] INFO logger_File - Success: You have added HP LP3065 to your shopping cart!equals to Success: You have added HP LP3065 to your shopping cart!
+2022-08-13 00:50:58,228 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-08-13 00:50:58,237 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-13 00:51:01,208 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:51:01,335 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:51:02,039 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:51:03,292 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-13 00:51:03,371 [main] INFO logger_File - User selected color from dropdown Red
+2022-08-13 00:51:03,445 [main] INFO logger_File - Usr selected quantity 1
+2022-08-13 00:51:03,495 [main] INFO logger_File - User clicked add to cart button
+2022-08-13 00:51:03,849 [main] INFO logger_File - Success: You have added Canon EOS 5D Camera to your shopping cart!equals to Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-08-13 00:51:07,588 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-08-13 00:51:07,601 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-13 00:51:10,715 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:51:10,854 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-13 00:51:11,548 [main] INFO logger_File - user clicked on show all desktops
+2022-08-13 00:51:12,815 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-13 00:51:13,859 [main] INFO logger_File - User clicked on write a review link
+2022-08-13 00:51:15,094 [main] INFO logger_File - User fill the review information with below information
+2022-08-13 00:51:16,149 [main] INFO logger_File - User clicked on Continue Button
+2022-08-13 00:51:17,432 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-08-13 00:51:54,937 [main] INFO logger_File - Scenario User verify currency values change started
+2022-08-13 00:51:58,355 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:51:58,393 [main] INFO logger_File - click on Currency successfuly
+2022-08-13 00:51:59,773 [main] INFO logger_File - Chose Euro from dropdown successfuly
+2022-08-13 00:52:00,799 [main] INFO logger_File - currency value should change to Euro successfuly
+2022-08-13 00:52:02,830 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2022-08-13 00:52:02,847 [main] INFO logger_File - Scenario User empty Shopping cart message displays started
+2022-08-13 00:52:05,725 [main] INFO logger_File - click successfuly
+2022-08-13 00:52:06,766 [main] INFO logger_File - “Your shopping cart is empty!” message Checked successfuly  = Your shopping cart is empty!
+2022-08-13 00:52:08,252 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2022-08-13 00:52:52,262 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-13 00:52:55,740 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:52:58,242 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-13 00:52:59,524 [main] INFO logger_File - Login was clicked successfuly
+2022-08-13 00:53:10,270 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-13 00:53:13,145 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:53:15,760 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-13 00:53:17,109 [main] INFO logger_File - Login was clicked successfuly
+2022-08-13 00:53:19,025 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-13 00:53:22,136 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:53:24,613 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-13 00:53:25,890 [main] INFO logger_File - Login was clicked successfuly
+2022-08-13 00:54:04,926 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-13 00:54:08,436 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:54:11,025 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-13 00:54:12,305 [main] INFO logger_File - Login was clicked successfuly
+2022-08-13 00:57:29,557 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-13 00:57:32,676 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 00:57:35,191 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-13 00:57:36,565 [main] INFO logger_File - Login was clicked successfuly
+2022-08-13 00:59:49,654 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-13 01:01:23,779 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-13 01:01:27,187 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 01:01:29,456 [main] INFO logger_File - user entered Register page information
+2022-08-13 01:01:29,492 [main] INFO logger_File - user clicked on Privacy Policy
+2022-08-13 01:01:30,163 [main] INFO logger_File - user clicked on continue button
+2022-08-13 01:01:30,188 [main] INFO logger_File - Account has been created successfully
+2022-08-13 01:01:35,591 [main] INFO logger_File - Scenario Register to Retail Website PASSED
+2022-08-13 01:01:56,744 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-13 01:01:59,830 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 01:02:02,347 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-13 01:02:03,600 [main] INFO logger_File - Login was clicked successfuly
+2022-08-13 01:02:23,550 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-13 01:02:27,056 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 01:02:29,450 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-13 01:02:30,889 [main] INFO logger_File - Login was clicked successfuly
+2022-08-13 01:02:31,919 [main] INFO logger_File - My Account was verified successfuly
+2022-08-13 01:02:33,406 [main] INFO logger_File - Clicked on (Edit your affiliate information link) - successfuly
+2022-08-13 01:02:35,674 [main] INFO logger_File - user entered Register page information
+2022-08-13 01:09:49,854 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-13 01:09:53,129 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 01:09:55,635 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-13 01:09:57,333 [main] INFO logger_File - Login was clicked successfuly
+2022-08-13 01:09:58,371 [main] INFO logger_File - My Account was verified successfuly
+2022-08-13 01:09:59,951 [main] INFO logger_File - Clicked on (Edit your affiliate information link) - successfuly
+2022-08-13 01:10:02,233 [main] INFO logger_File - user entered Register page information
+2022-08-13 01:10:04,920 [main] INFO logger_File - Account has been successfully updated successfuly.
+2022-08-13 01:10:06,309 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-08-13 01:10:06,320 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-13 01:10:09,201 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 01:10:11,599 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-13 01:10:13,328 [main] INFO logger_File - Login was clicked successfuly
+2022-08-13 01:10:14,359 [main] INFO logger_File - My Account was verified successfuly
+2022-08-13 01:10:16,469 [main] INFO logger_File - Edit your account information’ link click successfuly.
+2022-08-13 01:10:16,842 [main] INFO logger_File - User modify below information Entered successfuly .
+2022-08-13 01:11:32,721 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-13 01:11:36,068 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 01:11:38,457 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-13 01:11:39,948 [main] INFO logger_File - Login was clicked successfuly
+2022-08-13 01:11:40,975 [main] INFO logger_File - My Account was verified successfuly
+2022-08-13 01:11:42,537 [main] INFO logger_File - Clicked on (Edit your affiliate information link) - successfuly
+2022-08-13 01:12:15,106 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-13 01:12:18,062 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 01:12:20,450 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-13 01:12:21,938 [main] INFO logger_File - Login was clicked successfuly
+2022-08-13 01:12:22,964 [main] INFO logger_File - My Account was verified successfuly
+2022-08-13 01:12:25,100 [main] INFO logger_File - Edit your account information’ link click successfuly.
+2022-08-13 01:12:25,425 [main] INFO logger_File - User modify below information Entered successfuly .
+2022-08-13 01:13:08,239 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-13 01:13:11,187 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 01:13:13,693 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-13 01:13:15,342 [main] INFO logger_File - Login was clicked successfuly
+2022-08-13 01:13:16,373 [main] INFO logger_File - My Account was verified successfuly
+2022-08-13 01:13:17,860 [main] INFO logger_File - Clicked on (Edit your affiliate information link) - successfuly
+2022-08-13 01:13:20,138 [main] INFO logger_File - user entered Register page information
+2022-08-13 01:13:22,688 [main] INFO logger_File - Account has been successfully updated successfuly.
+2022-08-13 01:13:24,073 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-08-13 01:13:24,093 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-13 01:13:26,743 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-13 01:13:29,234 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-13 01:13:30,734 [main] INFO logger_File - Login was clicked successfuly
+2022-08-13 01:13:31,762 [main] INFO logger_File - My Account was verified successfuly
+2022-08-13 01:13:33,793 [main] INFO logger_File - Edit your account information’ link click successfuly.
+2022-08-13 01:13:34,057 [main] INFO logger_File - User modify below information Entered successfuly .
+2022-08-13 01:13:36,602 [main] INFO logger_File - Success: Your account has been successfully updated. = ‘Success: Your account has been successfully updated.’
+2022-08-13 01:13:37,972 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2022-08-14 07:25:41,022 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 07:25:45,310 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 07:25:45,473 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-08-14 07:26:40,748 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 07:26:43,856 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 07:26:43,992 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-08-14 07:28:27,457 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 07:28:30,396 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 07:28:30,526 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-08-14 07:30:46,571 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-14 07:30:49,530 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 07:30:51,856 [main] INFO logger_File - user entered Register page information
+2022-08-14 07:30:51,889 [main] INFO logger_File - user clicked on Privacy Policy
+2022-08-14 07:30:52,531 [main] INFO logger_File - user clicked on continue button
+2022-08-14 07:30:52,564 [main] INFO logger_File - Account has been created successfully
+2022-08-14 07:30:57,954 [main] INFO logger_File - Scenario Register to Retail Website PASSED
+2022-08-14 08:08:53,888 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 08:08:57,198 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 08:11:03,310 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 08:11:06,492 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 08:14:00,948 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 08:14:04,132 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 08:15:55,180 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 08:15:58,291 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 08:17:32,154 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 08:17:35,384 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 08:19:53,967 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 08:19:57,102 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 08:23:18,055 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 08:23:21,275 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 08:24:12,894 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 08:24:16,173 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 08:25:56,926 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 08:26:00,415 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 08:34:03,620 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 08:34:06,834 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 08:38:28,515 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 08:38:31,883 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 08:54:24,019 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 08:54:27,239 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 08:54:27,426 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-08-14 09:01:39,414 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:01:43,030 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:03:22,936 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:03:26,192 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:03:28,282 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:03:28,624 [main] INFO logger_File - Success: You have added MacBook to your shopping cart!equals to Success: You have added MacBook to your shopping cart!
+2022-08-14 09:03:32,372 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 09:07:14,369 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:07:17,575 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:07:19,496 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:07:19,842 [main] INFO logger_File - Success: You have added MacBook to your shopping cart!equals to Success: You have added MacBook to your shopping cart!
+2022-08-14 09:08:15,085 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:08:18,191 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:08:20,031 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:08:20,374 [main] INFO logger_File - Success: You have added MacBook to your shopping cart!equals to Success: You have added MacBook to your shopping cart!
+2022-08-14 09:09:20,546 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:09:23,539 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:09:25,396 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:09:25,742 [main] INFO logger_File - Success: You have added MacBook to your shopping cart!equals to Success: You have added MacBook to your shopping cart!
+2022-08-14 09:12:25,610 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:12:28,582 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:12:30,637 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:12:30,978 [main] INFO logger_File - Success: You have added MacBook to your shopping cart!equals to Success: You have added MacBook to your shopping cart!
+2022-08-14 09:13:04,330 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:13:07,323 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:13:09,167 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:13:09,520 [main] INFO logger_File - Success: You have added MacBook to your shopping cart!equals to Success: You have added MacBook to your shopping cart!
+2022-08-14 09:13:40,994 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:13:43,963 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:13:45,825 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:16:04,451 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:16:07,450 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:16:09,293 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:18:31,879 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:18:35,028 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:18:36,937 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:20:07,204 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:20:10,335 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:20:12,370 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:27:40,522 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:27:43,786 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:27:45,806 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:30:28,305 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:30:31,492 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:31:01,103 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:31:04,102 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:31:06,096 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:33:14,999 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:33:18,074 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:33:20,175 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:36:48,625 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:36:51,762 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:36:53,667 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:39:00,446 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:39:03,481 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:39:05,509 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:39:09,320 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 09:40:08,335 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:40:11,438 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:40:13,579 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:40:17,469 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 09:41:53,099 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:41:56,067 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:41:57,989 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:43:20,948 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:43:23,937 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:43:25,852 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:45:33,642 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:45:36,512 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:45:38,398 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:46:41,149 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:46:44,043 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:46:46,561 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:47:30,473 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:47:33,394 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:47:35,251 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:47:39,101 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 09:51:35,263 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:51:38,473 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:51:40,383 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:51:44,236 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 09:53:48,701 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:53:52,026 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:53:54,441 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:53:55,978 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-08-14 09:55:16,750 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:55:19,873 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:55:21,909 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:55:25,760 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-08-14 09:56:24,173 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:56:27,750 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:56:29,522 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 09:58:03,975 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 09:58:07,153 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 09:58:09,045 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 10:00:36,093 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 10:00:39,101 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 10:00:41,154 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 10:00:45,041 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 10:01:47,280 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 10:01:50,403 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 10:01:52,354 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 10:02:54,056 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 10:02:57,026 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 10:02:58,927 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 10:04:24,590 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 10:04:27,521 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 10:04:29,421 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 10:04:55,775 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 10:04:58,746 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 10:05:00,830 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 10:07:51,352 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 10:07:54,461 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 10:07:56,373 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 10:08:40,686 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 10:08:43,662 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 10:08:45,524 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 10:09:20,379 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 10:09:23,360 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 10:09:25,192 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 10:09:58,244 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 10:10:01,237 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 10:10:03,173 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 10:12:23,607 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 10:12:26,836 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 10:12:28,858 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 10:12:52,186 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 10:13:11,793 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 10:13:15,025 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 10:13:16,880 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 10:13:28,061 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 10:19:07,864 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 10:19:11,010 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 10:19:12,992 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 10:19:24,249 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 10:20:12,018 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 10:20:15,162 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 10:20:17,044 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 10:20:28,205 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 10:20:50,906 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 10:20:53,849 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 10:20:55,676 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 10:21:06,854 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 10:21:17,934 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 10:21:21,285 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 10:21:23,210 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 10:22:06,353 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 10:22:09,312 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 10:22:11,171 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 10:22:22,330 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 10:33:26,577 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 10:33:29,563 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 10:33:31,422 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 10:33:42,339 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 10:33:42,371 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 10:33:45,057 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 10:33:45,228 [main] INFO logger_File - Scenario Product Comparison UNDEFINED
+2022-08-14 11:11:15,409 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 11:11:19,052 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:11:21,182 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 11:11:22,034 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:11:24,743 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:11:24,875 [main] INFO logger_File - Scenario Product Comparison UNDEFINED
+2022-08-14 11:12:25,442 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 11:12:28,378 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:12:30,260 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 11:12:31,146 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:12:33,962 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:12:34,105 [main] INFO logger_File - Scenario Product Comparison UNDEFINED
+2022-08-14 11:14:29,529 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 11:14:32,494 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:14:32,631 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-08-14 11:14:32,651 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:14:35,134 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:14:35,289 [main] INFO logger_File - Scenario Product Comparison UNDEFINED
+2022-08-14 11:16:10,782 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 11:16:13,980 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:16:14,188 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-08-14 11:16:14,206 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:16:16,905 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:16:17,038 [main] INFO logger_File - Scenario Product Comparison UNDEFINED
+2022-08-14 11:18:39,049 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 11:18:42,210 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:18:43,715 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 11:19:33,568 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 11:19:36,543 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:19:37,906 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 11:19:44,816 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 11:20:41,607 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 11:20:44,589 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:20:46,064 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 11:20:53,002 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 11:20:53,038 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:20:55,557 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:20:55,689 [main] INFO logger_File - Scenario Product Comparison UNDEFINED
+2022-08-14 11:22:22,945 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 11:22:26,123 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:22:27,583 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 11:22:34,504 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 11:22:34,523 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:22:37,207 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:22:37,346 [main] INFO logger_File - Scenario Product Comparison PENDING
+2022-08-14 11:23:03,866 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 11:23:07,321 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:23:08,760 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 11:23:15,693 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 11:23:15,725 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:23:18,549 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:23:18,672 [main] INFO logger_File - Scenario Product Comparison UNDEFINED
+2022-08-14 11:41:20,106 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:41:23,228 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:42:06,482 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:42:09,392 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:42:46,224 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:42:49,188 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:45:01,915 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:45:05,013 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:49:56,046 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:49:59,166 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:50:27,518 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-14 11:50:30,505 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:50:32,876 [main] INFO logger_File - user entered Register page information
+2022-08-14 11:50:32,908 [main] INFO logger_File - user clicked on Privacy Policy
+2022-08-14 11:50:34,001 [main] INFO logger_File - user clicked on continue button
+2022-08-14 11:50:34,027 [main] INFO logger_File - Account has been created successfully
+2022-08-14 11:50:39,395 [main] INFO logger_File - Scenario Register to Retail Website PASSED
+2022-08-14 11:51:04,844 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:51:08,051 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:51:38,229 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 11:51:41,359 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:51:42,754 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 11:51:49,750 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 11:53:06,381 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:53:09,505 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:54:05,892 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:54:08,869 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:54:59,451 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 11:55:02,548 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:55:03,945 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 11:55:10,852 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 11:55:10,888 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:55:13,383 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:55:13,503 [main] INFO logger_File - Scenario Product Comparison UNDEFINED
+2022-08-14 11:58:49,661 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:58:52,776 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:58:52,934 [main] INFO logger_File - Scenario Product Comparison UNDEFINED
+2022-08-14 11:59:08,200 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:59:11,293 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:59:11,482 [main] INFO logger_File - Scenario Product Comparison UNDEFINED
+2022-08-14 11:59:36,220 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:59:39,325 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:59:39,470 [main] INFO logger_File - Scenario Product Comparison UNDEFINED
+2022-08-14 11:59:52,826 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 11:59:55,955 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 11:59:56,096 [main] INFO logger_File - Scenario Product Comparison UNDEFINED
+2022-08-14 12:26:42,592 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 12:26:46,056 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 12:28:18,486 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 12:28:21,937 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 12:28:22,087 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-14 12:28:25,807 [main] INFO logger_File - user clicked on show all desktops
+2022-08-14 12:29:28,474 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 12:29:31,923 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 12:29:32,064 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-14 12:29:32,675 [main] INFO logger_File - user clicked on show all desktops
+2022-08-14 12:29:34,861 [main] INFO logger_File - Scenario Product Comparison UNDEFINED
+2022-08-14 12:32:18,861 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 12:32:22,386 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 12:32:22,531 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-14 12:32:23,206 [main] INFO logger_File - user clicked on show all desktops
+2022-08-14 12:33:45,412 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 12:33:48,934 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 12:34:53,248 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 12:34:56,712 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 12:35:24,816 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 12:35:28,227 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 12:35:55,187 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 12:35:58,669 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 12:35:58,811 [main] INFO logger_File - Scenario Product Comparison PASSED
+2022-08-14 12:37:06,193 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 12:37:09,342 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 12:37:10,767 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 12:37:17,687 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 12:40:09,917 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 12:40:12,913 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 12:40:14,286 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 12:40:21,198 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 12:40:40,236 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 12:40:43,383 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 12:40:44,680 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 12:40:57,628 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 12:43:37,375 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 12:43:40,396 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 12:43:40,536 [main] INFO logger_File - Scenario Product Comparison UNDEFINED
+2022-08-14 12:44:06,349 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 12:44:09,301 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 12:44:10,642 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 12:44:23,588 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 12:44:23,619 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 12:44:26,156 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 12:44:26,289 [main] INFO logger_File - Scenario Product Comparison UNDEFINED
+2022-08-14 12:46:48,998 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 12:46:52,212 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 12:47:38,513 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 12:47:42,041 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 12:48:13,841 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 12:48:17,373 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 12:49:29,704 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 12:49:33,077 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 12:50:36,306 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 12:50:39,650 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 12:50:51,940 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 12:50:55,426 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 22:57:11,917 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 22:57:15,923 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 22:59:41,423 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 22:59:44,530 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:00:55,858 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 23:00:59,012 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:04:56,009 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 23:04:59,116 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:07:52,798 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 23:07:56,078 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:11:04,391 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 23:11:08,097 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:11:09,686 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 23:11:22,629 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 23:11:22,647 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 23:11:25,145 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:12:20,575 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 23:12:23,684 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:12:25,016 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 23:12:38,282 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 23:12:38,318 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 23:12:40,835 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:12:47,564 [main] INFO logger_File - Scenario Product Comparison UNDEFINED
+2022-08-14 23:14:48,708 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 23:14:51,631 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:14:53,125 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 23:15:06,071 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 23:15:06,107 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 23:15:08,753 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:15:15,608 [main] INFO logger_File - Scenario Product Comparison UNDEFINED
+2022-08-14 23:16:07,456 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 23:16:10,433 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:16:17,698 [main] INFO logger_File - Scenario Product Comparison PASSED
+2022-08-14 23:20:12,751 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 23:20:15,935 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:20:23,095 [main] INFO logger_File - MacBookis present
+2022-08-14 23:20:23,115 [main] INFO logger_File - MacBook Airis present
+2022-08-14 23:20:23,263 [main] INFO logger_File - Scenario Product Comparison PASSED
+2022-08-14 23:23:55,891 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 23:23:59,104 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:24:00,552 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 23:24:10,841 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 23:24:13,928 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:24:15,214 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 23:24:27,866 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 23:24:28,148 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 23:24:28,169 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 23:24:30,590 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:24:30,896 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:24:37,637 [main] INFO logger_File - MacBookis present
+2022-08-14 23:24:37,657 [main] INFO logger_File - MacBook Airis present
+2022-08-14 23:24:37,802 [main] INFO logger_File - Scenario Product Comparison PASSED
+2022-08-14 23:24:37,832 [main] INFO logger_File - Scenario Adding an item to Wish list started
+2022-08-14 23:24:37,960 [main] INFO logger_File - MacBookis present
+2022-08-14 23:24:37,979 [main] INFO logger_File - MacBook Airis present
+2022-08-14 23:24:38,144 [main] INFO logger_File - Scenario Product Comparison PASSED
+2022-08-14 23:24:38,172 [main] INFO logger_File - Scenario Adding an item to Wish list started
+2022-08-14 23:24:40,301 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:24:40,442 [main] INFO logger_File - Scenario Adding an item to Wish list UNDEFINED
+2022-08-14 23:24:40,923 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:24:41,062 [main] INFO logger_File - Scenario Adding an item to Wish list UNDEFINED
+2022-08-14 23:29:40,058 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 23:29:43,819 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:29:45,243 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 23:29:58,253 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 23:29:58,273 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 23:30:01,334 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:30:08,410 [main] INFO logger_File - MacBookis present
+2022-08-14 23:30:08,428 [main] INFO logger_File - MacBook Airis present
+2022-08-14 23:30:08,580 [main] INFO logger_File - Scenario Product Comparison PASSED
+2022-08-14 23:30:08,609 [main] INFO logger_File - Scenario Adding an item to Wish list started
+2022-08-14 23:30:11,570 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:30:11,704 [main] INFO logger_File - Scenario Adding an item to Wish list UNDEFINED
+2022-08-14 23:32:39,004 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 23:32:42,498 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:32:44,000 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 23:32:56,955 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 23:32:56,975 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 23:32:59,910 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:33:07,060 [main] INFO logger_File - MacBookis present
+2022-08-14 23:33:07,079 [main] INFO logger_File - MacBook Airis present
+2022-08-14 23:33:07,217 [main] INFO logger_File - Scenario Product Comparison PASSED
+2022-08-14 23:33:07,224 [main] INFO logger_File - Scenario Adding an item to Wish list started
+2022-08-14 23:33:10,177 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:33:10,322 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2022-08-14 23:40:51,565 [main] INFO logger_File - Scenario Adding an item to Wish list started
+2022-08-14 23:40:54,668 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:40:55,425 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2022-08-14 23:42:05,979 [main] INFO logger_File - Scenario Adding an item to Wish list started
+2022-08-14 23:42:09,081 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:42:09,760 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2022-08-14 23:42:55,340 [main] INFO logger_File - Scenario Adding an item to Wish list started
+2022-08-14 23:42:58,472 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:43:05,330 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2022-08-14 23:48:58,448 [main] INFO logger_File - Scenario Adding an item to Wish list started
+2022-08-14 23:49:01,888 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:51:58,745 [main] INFO logger_File - Scenario Adding an item to Wish list started
+2022-08-14 23:52:01,852 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:52:10,665 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2022-08-14 23:53:19,779 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-14 23:53:22,876 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:53:24,275 [main] INFO logger_File - User clicked add to cart button
+2022-08-14 23:53:37,234 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-14 23:53:37,257 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 23:53:39,789 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:53:46,681 [main] INFO logger_File - Scenario Adding an item to Wish list started
+2022-08-14 23:53:49,166 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:53:58,054 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2022-08-14 23:56:09,341 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 23:56:12,493 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:57:57,726 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-14 23:58:00,727 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-14 23:58:07,845 [main] INFO logger_File - MacBookis present
+2022-08-14 23:58:07,864 [main] INFO logger_File - MacBook Airis present
+2022-08-14 23:58:08,003 [main] INFO logger_File - Scenario Product Comparison PASSED
+2022-08-15 00:00:13,353 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-15 00:00:16,543 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:00:17,916 [main] INFO logger_File - User clicked add to cart button
+2022-08-15 00:00:30,838 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-15 00:00:30,859 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-15 00:00:33,251 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:00:40,282 [main] INFO logger_File - MacBookis present
+2022-08-15 00:00:40,300 [main] INFO logger_File - MacBook Airis present
+2022-08-15 00:00:40,459 [main] INFO logger_File - Scenario Product Comparison PASSED
+2022-08-15 00:00:40,466 [main] INFO logger_File - Scenario Adding an item to Wish list started
+2022-08-15 00:00:43,161 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:00:52,103 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2022-08-15 00:00:52,133 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 started
+2022-08-15 00:00:54,799 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:00:59,484 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 UNDEFINED
+2022-08-15 00:10:59,803 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 started
+2022-08-15 00:11:03,107 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:11:15,514 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-08-15 00:16:45,357 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-15 00:16:48,546 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:16:48,686 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-15 00:16:51,388 [main] INFO logger_File - user clicked on show all desktops
+2022-08-15 00:16:53,445 [main] INFO logger_File - is present
+2022-08-15 00:16:55,479 [main] INFO logger_File - Desktopsis present
+2022-08-15 00:16:57,499 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-15 00:16:59,532 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-15 00:17:01,561 [main] INFO logger_File - HP LP3065is present
+2022-08-15 00:17:03,584 [main] INFO logger_File - HTC Touch HDis present
+2022-08-15 00:17:26,551 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-15 00:17:28,595 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-15 00:17:41,337 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-15 00:17:44,579 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:17:44,719 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-15 00:17:47,537 [main] INFO logger_File - user clicked on show all desktops
+2022-08-15 00:17:49,585 [main] INFO logger_File - is present
+2022-08-15 00:17:51,607 [main] INFO logger_File - Desktopsis present
+2022-08-15 00:17:53,640 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-15 00:17:55,661 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-15 00:17:57,681 [main] INFO logger_File - HP LP3065is present
+2022-08-15 00:17:59,700 [main] INFO logger_File - HTC Touch HDis present
+2022-08-15 00:18:01,716 [main] INFO logger_File - iPhoneis present
+2022-08-15 00:18:03,736 [main] INFO logger_File - iPod Classicis present
+2022-08-15 00:18:26,631 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-15 00:18:29,152 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:18:29,286 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-15 00:18:43,509 [main] INFO logger_File - user clicked on show all desktops
+2022-08-15 00:19:06,461 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-15 00:19:08,997 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:19:09,132 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-15 00:19:11,856 [main] INFO logger_File - user clicked on show all desktops
+2022-08-15 00:19:15,124 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-15 00:19:17,195 [main] INFO logger_File - User selected color from dropdown Red
+2022-08-15 00:19:19,269 [main] INFO logger_File - Usr selected quantity 1
+2022-08-15 00:19:21,304 [main] INFO logger_File - User clicked add to cart button
+2022-08-15 00:19:23,334 [main] INFO logger_File - Success: You have added Canon EOS 5D Camera to your shopping cart!equals to Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-08-15 00:19:27,070 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-08-15 00:19:27,081 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-15 00:19:29,421 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:19:29,557 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-15 00:19:32,283 [main] INFO logger_File - user clicked on show all desktops
+2022-08-15 00:19:35,681 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-15 00:19:36,720 [main] INFO logger_File - User clicked on write a review link
+2022-08-15 00:19:37,940 [main] INFO logger_File - User fill the review information with below information
+2022-08-15 00:19:38,983 [main] INFO logger_File - User clicked on Continue Button
+2022-08-15 00:19:44,685 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-08-15 00:20:20,148 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-15 00:20:23,102 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:20:23,241 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-15 00:20:28,487 [main] INFO logger_File - user clicked on show all desktops
+2022-08-15 00:24:16,691 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-15 00:24:19,790 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:24:19,923 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-15 00:24:22,646 [main] INFO logger_File - user clicked on show all desktops
+2022-08-15 00:24:24,688 [main] INFO logger_File - is present
+2022-08-15 00:24:26,724 [main] INFO logger_File - Desktopsis present
+2022-08-15 00:24:28,745 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-15 00:24:30,766 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-15 00:24:32,786 [main] INFO logger_File - HP LP3065is present
+2022-08-15 00:25:47,431 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-15 00:25:50,388 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:25:50,534 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-15 00:25:51,129 [main] INFO logger_File - user clicked on show all desktops
+2022-08-15 00:25:51,169 [main] INFO logger_File - is present
+2022-08-15 00:25:51,190 [main] INFO logger_File - Desktopsis present
+2022-08-15 00:25:51,206 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-15 00:25:51,220 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-15 00:25:51,235 [main] INFO logger_File - HP LP3065is present
+2022-08-15 00:25:51,251 [main] INFO logger_File - HTC Touch HDis present
+2022-08-15 00:25:51,265 [main] INFO logger_File - iPhoneis present
+2022-08-15 00:25:51,278 [main] INFO logger_File - iPod Classicis present
+2022-08-15 00:25:51,294 [main] INFO logger_File - MacBookis present
+2022-08-15 00:25:51,312 [main] INFO logger_File - MacBook Airis present
+2022-08-15 00:25:51,327 [main] INFO logger_File - Palm Treo Prois present
+2022-08-15 00:25:51,343 [main] INFO logger_File - Product 8is present
+2022-08-15 00:25:51,357 [main] INFO logger_File - Samsung SyncMaster 941BWis present
+2022-08-15 00:25:51,373 [main] INFO logger_File - Sony VAIOis present
+2022-08-15 00:25:51,506 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-15 00:26:20,540 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-15 00:26:23,471 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:26:23,614 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-15 00:26:24,208 [main] INFO logger_File - user clicked on show all desktops
+2022-08-15 00:26:24,248 [main] INFO logger_File - is present
+2022-08-15 00:26:24,269 [main] INFO logger_File - Desktopsis present
+2022-08-15 00:26:24,285 [main] INFO logger_File - Apple Cinema 30"is present
+2022-08-15 00:26:24,300 [main] INFO logger_File - Canon EOS 5D Camerais present
+2022-08-15 00:26:24,315 [main] INFO logger_File - HP LP3065is present
+2022-08-15 00:26:24,329 [main] INFO logger_File - HTC Touch HDis present
+2022-08-15 00:26:24,343 [main] INFO logger_File - iPhoneis present
+2022-08-15 00:26:24,357 [main] INFO logger_File - iPod Classicis present
+2022-08-15 00:26:24,372 [main] INFO logger_File - MacBookis present
+2022-08-15 00:26:24,387 [main] INFO logger_File - MacBook Airis present
+2022-08-15 00:26:24,401 [main] INFO logger_File - Palm Treo Prois present
+2022-08-15 00:26:24,416 [main] INFO logger_File - Product 8is present
+2022-08-15 00:26:24,432 [main] INFO logger_File - Samsung SyncMaster 941BWis present
+2022-08-15 00:26:24,449 [main] INFO logger_File - Sony VAIOis present
+2022-08-15 00:26:24,584 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-15 00:26:24,609 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-08-15 00:26:27,514 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:26:27,642 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-15 00:26:28,301 [main] INFO logger_File - user clicked on show all desktops
+2022-08-15 00:26:29,733 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-15 00:26:31,806 [main] INFO logger_File - Usr selected quantity 1
+2022-08-15 00:26:33,860 [main] INFO logger_File - User clicked add to cart button
+2022-08-15 00:26:35,890 [main] INFO logger_File - Success: You have added HP LP3065 to your shopping cart!equals to Success: You have added HP LP3065 to your shopping cart!
+2022-08-15 00:26:39,594 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-08-15 00:26:39,605 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-15 00:26:42,286 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:26:42,422 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-15 00:26:42,986 [main] INFO logger_File - user clicked on show all desktops
+2022-08-15 00:26:44,260 [main] INFO logger_File - User cliced Add to Cart Option
+2022-08-15 00:26:46,339 [main] INFO logger_File - User selected color from dropdown Red
+2022-08-15 00:26:48,417 [main] INFO logger_File - Usr selected quantity 1
+2022-08-15 00:26:50,449 [main] INFO logger_File - User clicked add to cart button
+2022-08-15 00:26:52,483 [main] INFO logger_File - Success: You have added Canon EOS 5D Camera to your shopping cart!equals to Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-08-15 00:26:56,189 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-08-15 00:26:56,201 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-15 00:26:58,962 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:26:59,094 [main] INFO logger_File - User clicked on Desktops tab
+2022-08-15 00:26:59,690 [main] INFO logger_File - user clicked on show all desktops
+2022-08-15 00:27:01,094 [main] INFO logger_File - User clicked on Canon EOS 5D item
+2022-08-15 00:27:02,139 [main] INFO logger_File - User clicked on write a review link
+2022-08-15 00:27:03,351 [main] INFO logger_File - User fill the review information with below information
+2022-08-15 00:27:04,389 [main] INFO logger_File - User clicked on Continue Button
+2022-08-15 00:27:10,091 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-08-15 00:27:30,700 [main] INFO logger_File - Scenario User verify currency values change started
+2022-08-15 00:27:33,854 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:27:33,892 [main] INFO logger_File - click on Currency successfuly
+2022-08-15 00:27:36,365 [main] INFO logger_File - Chose Euro from dropdown successfuly
+2022-08-15 00:27:38,391 [main] INFO logger_File - currency value should change to Euro successfuly
+2022-08-15 00:27:43,212 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2022-08-15 00:27:43,229 [main] INFO logger_File - Scenario User empty Shopping cart message displays started
+2022-08-15 00:27:45,944 [main] INFO logger_File - click successfuly
+2022-08-15 00:27:47,975 [main] INFO logger_File - “Your shopping cart is empty!” message Checked successfuly  = Your shopping cart is empty!
+2022-08-15 00:27:50,473 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2022-08-15 00:28:35,827 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-15 00:28:38,914 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:28:41,411 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-15 00:28:42,993 [main] INFO logger_File - Login was clicked successfuly
+2022-08-15 00:28:44,028 [main] INFO logger_File - My Account was verified successfuly
+2022-08-15 00:28:45,561 [main] INFO logger_File - Clicked on (Edit your affiliate information link) - successfuly
+2022-08-15 00:28:47,825 [main] INFO logger_File - user entered Register page information
+2022-08-15 00:29:03,041 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-15 00:29:06,127 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:29:08,516 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-15 00:29:10,120 [main] INFO logger_File - Login was clicked successfuly
+2022-08-15 00:29:11,148 [main] INFO logger_File - My Account was verified successfuly
+2022-08-15 00:29:11,612 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-15 00:29:12,642 [main] INFO logger_File - Clicked on (Edit your affiliate information link) - successfuly
+2022-08-15 00:29:14,111 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:29:14,911 [main] INFO logger_File - user entered Register page information
+2022-08-15 00:29:16,593 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-15 00:29:18,063 [main] INFO logger_File - Login was clicked successfuly
+2022-08-15 00:29:19,086 [main] INFO logger_File - My Account was verified successfuly
+2022-08-15 00:29:21,280 [main] INFO logger_File - Edit your account information’ link click successfuly.
+2022-08-15 00:29:21,561 [main] INFO logger_File - User modify below information Entered successfuly .
+2022-08-15 00:29:41,156 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-15 00:29:54,813 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-15 00:29:57,733 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:30:00,122 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-15 00:30:01,708 [main] INFO logger_File - Login was clicked successfuly
+2022-08-15 00:30:02,736 [main] INFO logger_File - My Account was verified successfuly
+2022-08-15 00:30:04,257 [main] INFO logger_File - Clicked on (Edit your affiliate information link) - successfuly
+2022-08-15 00:30:06,518 [main] INFO logger_File - user entered Register page information
+2022-08-15 00:30:39,098 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-15 00:30:41,802 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:30:44,293 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-15 00:30:45,824 [main] INFO logger_File - Login was clicked successfuly
+2022-08-15 00:30:46,847 [main] INFO logger_File - My Account was verified successfuly
+2022-08-15 00:30:48,957 [main] INFO logger_File - Edit your account information’ link click successfuly.
+2022-08-15 00:30:49,206 [main] INFO logger_File - User modify below information Entered successfuly .
+2022-08-15 00:30:51,621 [main] INFO logger_File - Success: Your account has been successfully updated. = ‘Success: Your account has been successfully updated.’
+2022-08-15 00:30:52,957 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2022-08-15 00:34:14,471 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-15 00:34:17,444 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:34:19,911 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-15 00:34:21,283 [main] INFO logger_File - Login was clicked successfuly
+2022-08-15 00:34:27,464 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-15 00:34:42,293 [main] INFO logger_File - Scenario Register to Retail Website started
+2022-08-15 00:34:45,215 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:34:49,558 [main] INFO logger_File - user entered Register page information
+2022-08-15 00:34:49,591 [main] INFO logger_File - user clicked on Privacy Policy
+2022-08-15 00:34:52,243 [main] INFO logger_File - user clicked on continue button
+2022-08-15 00:34:54,275 [main] INFO logger_File - Account has been created successfully
+2022-08-15 00:34:59,628 [main] INFO logger_File - Scenario Register to Retail Website PASSED
+2022-08-15 00:35:16,711 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-15 00:35:19,662 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:35:22,170 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-15 00:35:23,591 [main] INFO logger_File - Login was clicked successfuly
+2022-08-15 00:35:24,622 [main] INFO logger_File - My Account was verified successfuly
+2022-08-15 00:35:26,177 [main] INFO logger_File - Clicked on (Edit your affiliate information link) - successfuly
+2022-08-15 00:35:28,470 [main] INFO logger_File - user entered Register page information
+2022-08-15 00:35:31,076 [main] INFO logger_File - Account has been successfully updated successfuly.
+2022-08-15 00:35:32,472 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-08-15 00:35:32,495 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-15 00:35:34,934 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:35:37,431 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-15 00:35:38,910 [main] INFO logger_File - Login was clicked successfuly
+2022-08-15 00:35:39,934 [main] INFO logger_File - My Account was verified successfuly
+2022-08-15 00:35:42,015 [main] INFO logger_File - Edit your account information� link click successfuly.
+2022-08-15 00:35:42,272 [main] INFO logger_File - User modify below information Entered successfuly .
+2022-08-15 00:36:07,474 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-15 00:36:10,633 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:36:13,024 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-15 00:36:14,442 [main] INFO logger_File - Login was clicked successfuly
+2022-08-15 00:36:15,472 [main] INFO logger_File - My Account was verified successfuly
+2022-08-15 00:36:16,938 [main] INFO logger_File - Clicked on (Edit your affiliate information link) - successfuly
+2022-08-15 00:36:24,749 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-15 00:36:27,241 [main] INFO logger_File - Text Test Envirement was verified
+2022-08-15 00:36:29,710 [main] INFO logger_File - Email and Password were entered successfylly
+2022-08-15 00:36:31,211 [main] INFO logger_File - Login was clicked successfuly
+2022-08-15 00:36:32,232 [main] INFO logger_File - My Account was verified successfuly
+2022-08-15 00:36:34,296 [main] INFO logger_File - Edit your account information� link click successfuly.
+2022-08-15 00:36:34,553 [main] INFO logger_File - User modify below information Entered successfuly .
+2022-08-15 00:36:36,994 [main] INFO logger_File - Success: Your account has been successfully updated. = �Success: Your account has been successfully updated.�
+2022-08-15 00:36:38,302 [main] INFO logger_File - Scenario Edit your account Information PASSED

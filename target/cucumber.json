@@ -1,0 +1,425 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 6,
+        "name": "Login on Website",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 41999300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on Test Envirement Home Page",
+            "match": {
+              "location": "step.definition.RetailPageDef.i_am_on_test_envirement_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1038200000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click My Account Button",
+            "match": {
+              "location": "step.definition.RetailPageDef.i_click_my_account_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1321610000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click Drop Down Menu Login Button",
+            "match": {
+              "location": "step.definition.RetailPageDef.i_click_drop_down_menu_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1109520200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I Enter username \u00272Yehor_Zykov@tekschool.us\u0027 and password \u00270972121839Boom!\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u00272Yehor_Zykov@tekschool.us\u0027",
+                  "offset": 17
+                },
+                {
+                  "val": "\u00270972121839Boom!\u0027",
+                  "offset": 58
+                }
+              ],
+              "location": "step.definition.RetailPageDef.i_enter_username_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1383034000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click on Login button",
+            "match": {
+              "location": "step.definition.RetailPageDef.i_click_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath\u003d//h2[text()\u003d \u0027My Account\u0027]\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-RHTR1R4\u0027, ip: \u0027192.168.12.166\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002716.0.2\u0027\nDriver info: driver.version: RemoteWebDriver\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:327)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat jdk.proxy2/jdk.proxy2.$Proxy21.getText(Unknown Source)\r\n\tat page.objects.RetailPageObject.getTextAfterLogin(RetailPageObject.java:102)\r\n\tat step.definition.RetailPageDef.i_am_logged_entro_my_test_enviroment_account(RetailPageDef.java:63)\r\n\tat ✽.I am logged entro my test Enviroment account(classpath:features/RetailPage.feature:12)\r\n",
+              "duration": 5122989900,
+              "status": "failed"
+            },
+            "line": 12,
+            "name": "I am logged entro my test Enviroment account",
+            "match": {
+              "location": "step.definition.RetailPageDef.i_am_logged_entro_my_test_enviroment_account()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-15T04:34:14.361Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2996415200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definition.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "Edit your affiliate information from Cheque payment method to Bank Transfer",
+        "description": "",
+        "id": "login-on-website;edit-your-affiliate-information-from-cheque-payment-method-to-bank-transfer",
+        "after": [
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d104.0.5112.81)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-RHTR1R4\u0027, ip: \u0027192.168.12.166\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002716.0.2\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.81, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\\Users\\Admin\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52917}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 2e8323aafcbd93137bc2e74cd360208f\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:295)\r\n\tat step.definition.Initializer.afterHooks(Initializer.java:44)\r\n",
+              "duration": 6000200,
+              "status": "failed"
+            },
+            "match": {
+              "location": "step.definition.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "User click on ‘Edit your affiliate information link",
+            "match": {
+              "location": "step.definition.RetailPageDef.user_click_on_edit_your_affiliate_information_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 997200,
+              "status": "skipped"
+            },
+            "line": 19,
+            "name": "user click on Bank Transfer radio button",
+            "match": {
+              "location": "step.definition.RetailPageDef.user_click_on_bank_transfer_radio_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 20,
+            "name": "User fill Bank information with below information",
+            "match": {
+              "location": "step.definition.RetailPageDef.user_fill_bank_information_with_below_information(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "bankName",
+                  "abaNumber",
+                  "swiftCode",
+                  "accountName",
+                  "accountNumber"
+                ]
+              },
+              {
+                "cells": [
+                  "Chase",
+                  "12312321",
+                  "11222",
+                  "Yehor",
+                  "558866887"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 23,
+            "name": "User click on Continue button",
+            "match": {
+              "location": "step.definition.RetailPageDef.user_click_on_continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 24,
+            "name": "User should see a success message",
+            "match": {
+              "location": "step.definition.RetailPageDef.user_should_see_a_success_message()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CompleteTestRetaile"
+          },
+          {
+            "name": "@EditAffiliateInformation"
+          }
+        ]
+      },
+      {
+        "line": 6,
+        "name": "Login on Website",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d104.0.5112.81)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-RHTR1R4\u0027, ip: \u0027192.168.12.166\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002716.0.2\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.81, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\\Users\\Admin\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52975}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: c435e0bd493c1469b15ef46eeb511040\n*** Element info: {Using\u003dxpath, value\u003d//a[text()\u003d\u0027TEST ENVIRONMENT\u0027]}\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat jdk.proxy2/jdk.proxy2.$Proxy21.getText(Unknown Source)\r\n\tat page.objects.RetailPageObject.getEnvirementText(RetailPageObject.java:76)\r\n\tat step.definition.RetailPageDef.i_am_on_test_envirement_home_page(RetailPageDef.java:24)\r\n\tat ✽.I am on Test Envirement Home Page(classpath:features/RetailPage.feature:7)\r\n",
+              "duration": 13000300,
+              "status": "failed"
+            },
+            "line": 7,
+            "name": "I am on Test Envirement Home Page",
+            "match": {
+              "location": "step.definition.RetailPageDef.i_am_on_test_envirement_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "I click My Account Button",
+            "match": {
+              "location": "step.definition.RetailPageDef.i_click_my_account_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I click Drop Down Menu Login Button",
+            "match": {
+              "location": "step.definition.RetailPageDef.i_click_drop_down_menu_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "I Enter username \u00272Yehor_Zykov@tekschool.us\u0027 and password \u00270972121839Boom!\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u00272Yehor_Zykov@tekschool.us\u0027",
+                  "offset": 17
+                },
+                {
+                  "val": "\u00270972121839Boom!\u0027",
+                  "offset": 58
+                }
+              ],
+              "location": "step.definition.RetailPageDef.i_enter_username_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "I click on Login button",
+            "match": {
+              "location": "step.definition.RetailPageDef.i_click_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 128900,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "I am logged entro my test Enviroment account",
+            "match": {
+              "location": "step.definition.RetailPageDef.i_am_logged_entro_my_test_enviroment_account()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-15T04:34:27.462Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1797319500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definition.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 27,
+        "name": "Edit your account Information",
+        "description": "",
+        "id": "login-on-website;edit-your-account-information",
+        "after": [
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d104.0.5112.81)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-RHTR1R4\u0027, ip: \u0027192.168.12.166\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002716.0.2\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.81, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\\Users\\Admin\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52975}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: c435e0bd493c1469b15ef46eeb511040\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:295)\r\n\tat step.definition.Initializer.afterHooks(Initializer.java:44)\r\n",
+              "duration": 2001400,
+              "status": "failed"
+            },
+            "match": {
+              "location": "step.definition.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 28,
+            "name": "User click on ‘Edit your account information’ link",
+            "match": {
+              "location": "step.definition.RetailPageDef.user_click_on_edit_your_account_information_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 872200,
+              "status": "skipped"
+            },
+            "line": 29,
+            "name": "User modify below information",
+            "match": {
+              "location": "step.definition.RetailPageDef.user_modify_below_information(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "firstname",
+                  "lastName",
+                  "email",
+                  "telephone"
+                ]
+              },
+              {
+                "cells": [
+                  "Hennadii",
+                  "Zykov",
+                  "pro3@gmail.com",
+                  "3334445511"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 32,
+            "name": "User click on Continue button",
+            "match": {
+              "location": "step.definition.RetailPageDef.user_click_on_continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 33,
+            "name": "User should see a message ‘Success: Your account has been successfully updated.’",
+            "match": {
+              "location": "step.definition.RetailPageDef.user_should_see_a_message_success_your_account_has_been_successfully_updated()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CompleteTestRetaile"
+          },
+          {
+            "name": "@EditAccountInformation"
+          }
+        ]
+      }
+    ],
+    "name": "Login on Website",
+    "description": "",
+    "id": "login-on-website",
+    "keyword": "Feature",
+    "uri": "classpath:features/RetailPage.feature",
+    "tags": [
+      {
+        "name": "@CompleteTestRetaile",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
